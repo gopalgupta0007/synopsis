@@ -1,0 +1,170 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 26px;
+        }
+        .auto-style3 {
+            font-size: medium;
+        }
+        .auto-style4 {
+            font-size: small;
+        }
+        .auto-style5 {
+            height: 37px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical2b.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mI4TVjFYHBnjTP8zlVb1tAwxgIBsJwLmdQSw28KaV7z1L1sZyEmRZ5P47yd8JsLbZEwt21qJNGMLppWrDfpgYDDmEgzARGp95AzsMKkw+z0NAv88k8YDMfhHfGNtpFSB85aDMN9i7QTbeyx1c9GXJqpQaNb0dw2/5AYWrxRX5Gxqyq0uy199jF/Yq/4Vq+1QJJ0BBjwqh7P3M5r5WKZPz5TzMW9WAPz3CUYyDBmWzccWpMiZobIAJWJYtgZ/5gdteiYn10//74aYXoI6umcQH9M6SGMDw81T5cTOCS4l2DVGhrzsfmxInYdWVyRdO5oQffAhpoVQ0FWpZNljhUyVFDMoQ7IF0vaTmc8atDWm25Ad93fKsyOW9IC4iH5/YQr+IBMe6ToW7aZXKCNodhoCYVbmvCjUnHMOfvy3ET/V1aQIA8hrqdUFdzKT5JBEvt6UX6CaX5YBMPpV7t68qu+nRpcQrZoKbvD1FBuUhGdFk2lVQVHKp5PopWc+M8JRB+hIydDDvHavYdr2abS28alHuLVFQkl/I8vz16MlAICvYjbN6gOXQxKyjMDvHyBAf0rJrs1w5iChgS+fVSTgiSqQtFTM4wBev5OflhPvYr135OtCztyMPYf/GtLEfkN7Tlvd5O9BcBiil9JVUn5tq9MJrwn3hNNDrLJjV6xc3h4CPTrVgyLZMqVpYR8P530y5EOB4a604xAI1lG5IshVGWoBWSZIFsk941icZdOSrdLDKgriF3zEgrEm0UU8QhmWmvP3vXVOoOM2/aLfJxlWZrUp7meZfzjAMxvzRxe6sEaLwgtKDVmNVffjOPHEb+s5+9Nc">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B415B629">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="TnheD8ILh15ifd9hesxeFKM/sCcnh1ok8/S2xscOPRMXABuOsMLNsWMAgT0F17IJeVi7ZzQU+GFabGhcvnpzyy3NM8oZ+kDPpr22e842ISFNbayDYpi3W7ETubz7nvMioBxc4tOIMxirJ3XEx6YAsuZLJDJchlKJwDjyBKxe/wybxsVfQwkjT/a8cdpaVZA7XoXQZNkWNGRUv0Y5c61mmAIhYh7uCGBgLlt5arYlVtk=">
+</div>
+        <div>
+
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                </tr>
+                <tr>
+                    <td>=========================================================</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2><strong>Function Overloading&nbsp; :&nbsp; </strong></h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>sum(2,4)&nbsp; =&gt; <strong>
+                        <span id="lbl_sumInt">6</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>sum(3.5,5.5)&nbsp; =&gt;&nbsp; <strong>
+                        <span id="lbl_sumDouble">9</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>sum("Hello","World")&nbsp; =&gt;&nbsp; <strong>
+                        <span id="lbl_concat">HelloWorld</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_Answer" value="Answer" id="btn_Answer">
+                    </td>
+                </tr>
+                <tr>
+                    <td>=========================================================</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2>Inheritance (all types) <strong>&nbsp;:&nbsp; </strong></h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2 class="auto-style3" style="margin: 0px; padding: 0px; box-sizing: border-box; font-family: Roboto, sans-serif; font-weight: 400; line-height: 1.1; color: rgb(33, 33, 33); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong><span class="auto-style4">Single level inheritance&nbsp; =&gt;</span>
+                            <input type="submit" name="btn_singlelevel" value="show" id="btn_singlelevel">
+&nbsp;</strong></h2>
+                        <h2 class="auto-style3" style="margin: 0px; padding: 0px; box-sizing: border-box; font-family: Roboto, sans-serif; font-weight: 400; line-height: 1.1; color: rgb(33, 33, 33); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">=&gt;<strong>
+                            <span id="lbl_singlelevel">This is Base Class<br>This is Derived Class</span>
+                            </strong></h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2 class="auto-style4" style="margin: 0px; padding: 0px; box-sizing: border-box; font-family: Roboto, sans-serif; font-weight: 400; line-height: 1.1; color: rgb(33, 33, 33); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Hierarchical inheritance =&gt; </strong>
+                            <input type="submit" name="btn_hirearchical" value="show" id="btn_hirearchical">
+                        </h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>=&gt;</strong>&nbsp; <strong>
+                        <span id="lbl_HierarchicalInheritance">From object of class b to Calling class A of Method<br>From object of class c to Calling class A of Method<br>From object of class b to Calling class B of Method<br>From object of class c to Calling class C of Method<br></span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <h2 class="auto-style4" style="margin: 0px; padding: 0px; box-sizing: border-box; font-family: Roboto, sans-serif; font-weight: 400; line-height: 1.1; color: rgb(33, 33, 33); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Multilevel inheritance&nbsp; =&gt;&nbsp; </strong>
+                            <input type="submit" name="btn_multilevelInheritance" value="show" id="btn_multilevelInheritance">
+                        </h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>=&gt;&nbsp; <strong>
+                        <span id="lbl_multilevelInheritance">This is 1st Class<br>This is 2nd Class<br>This is 3rd Class<br></span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>=========================================================</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2><strong>Constructor Overloading &nbsp;:&nbsp;</strong></h2><strong>
+                        </strong></td>
+                </tr>
+
+                <tr>
+                    <td>Constructor(2, 4) =&gt; <strong> <span id="Label1">6</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Constructor(12.5, 5.5, 3.2) =&gt;
+                        <strong>
+                        <span id="Label2">21.2</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Constructor("hello", "world") =&gt; <strong> <span id="Label3">helloworld</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_constructorOverloading" value="Answer" id="btn_constructorOverloading">
+                    </td>
+                </tr>
+                <tr>
+                    <td>=========================================================</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h2><strong>Interfaces :</strong></h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_interface" value="show" id="btn_interface">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">=&gt; <strong>
+                        <span id="lbl_interface">interface1 =&gt; this is the car name BMW<br>interface2 =&gt; 110</span>
+                        </strong></td>
+                </tr>
+            </tbody></table>
+
+        </div>
+    </form>
+
+
+</body></html>
