@@ -38,22 +38,22 @@
                 </tr>
                 <tr>
                     <td>Enter first Number :&nbsp;
-                        <input name="txt_firstNum" type="text" id="txt_firstNum" fdprocessedid="7ms2ls">
+                        <input name="txt_firstNum" type="text" id="txt_firstNum" fdprocessedid="7ms2ls" value="10">
                     </td>
                 </tr>
                 <tr>
                     <td>Enter second Number :
-                        <input name="txt_secondNum" type="text" id="txt_secondNum" fdprocessedid="vasmvm">
+                        <input name="txt_secondNum" type="text" id="txt_secondNum" fdprocessedid="vasmvm" value="11">
                     </td>
                 </tr>
                 <tr>
                     <td>Enter third Number :
-                        <input name="txt_thirdNum" type="text" id="txt_thirdNum" fdprocessedid="yli2qn">
+                        <input name="txt_thirdNum" type="text" id="txt_thirdNum" fdprocessedid="yli2qn" value="10">
                     </td>
                 </tr>
                 <tr>
                     <td>Enter fourth Number :
-                        <input name="txt_fouthNum" type="text" id="txt_fouthNum" fdprocessedid="0hpri">
+                        <input name="txt_fouthNum" type="text" id="txt_fouthNum" fdprocessedid="0hpri" value="12">
                     </td>
                 </tr>
                 <tr>
@@ -68,7 +68,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>Output =&gt;&nbsp; <span id="lbl_ans"></span>
+                    <td>Output =&gt;&nbsp;13200 <span id="lbl_ans"></span>
                     </td>
                 </tr>
             </tbody></table>
