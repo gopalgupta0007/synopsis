@@ -1,0 +1,152 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 26px;
+        }
+        .auto-style3 {
+            height: 49px;
+        }
+        .auto-style4 {
+            height: 38px;
+        }
+        .auto-style5 {
+            font-size: medium;
+            color: rgb(0, 0, 0);
+            background-color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical2a.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="6NdFzANo/SksP1V/yrgIDlKwDDkCF0EvvJJWN0q4PEj+dzFxDBQM+Ep89JS3ExEuiN93Ih7UjNBZJJjcBZ3ASpxbdDAbH5PhrqvJ8jKgw9hgfUDz4X1FTRu9fkqIDkenZcYu73hetSrtO4mOpq1HTVrxwvuhP6+g3MqdS4iekBcFpW4N6SlOA2rNwIxAI9ozwg3CuTHDbuLfkukhGew/GCtHpK5S1kdhyFe3GhjL9XlnDlckxAMjemiREV0Cvy+hB6UlsZfFNCXF9dpEjZN8eUD4yA3qEqy+N8rzLiM9xsWVdSNLRxZ90MnMuhtfoPk68hyQKY3yvyzv6cKRDf9FtZD1hk0YInVhX723bsdg9ns=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="34020890">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dqY0zoUwqYa0rAUe+xoiYo2Y4ogXl9QlNdHlY5F0lrcs8lqBcnNx+Dxyl9lG7GjsUHyKIV+EEazWk1U/g2NegwcY5RjP+lLd8oSJMe1ozi9ma+c0fL5TdR9dTxOIZ5rvFLzL8soXNesqG7WP2P2vD4ZFMrYn5+tvz47nP9aTfYuwLXxGHvF7EQVryBly02fOWMzTSAxvzkr9rMyl+gDidGpotiaRw7bzWZyjFM3incRA9Id5crJi4dPy0GckNbYllemXvwuhI3FOfVF0HP+VbussYB+ZBj87Z/Hlfejesr8qauGLji9rNjZ6uq4JhrmM+Vq8Z3Yt08iTfEtRV71/gdk6y6N/uEz7+TbQnTmMx581lLDFif8Dbc1iL53Lzk36vLpRtxQt3r9TeoPPBfb3hA==">
+</div>
+        <div>
+
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>Name :&nbsp; Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <h1><strong>Factorial : </strong></h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter the Number :
+                        <input name="txt_takeFactorial" type="text" value="4" id="txt_takeFactorial" fdprocessedid="yma9w">
+&nbsp;&nbsp;
+                        <input type="submit" name="Button1" value="Factorial" id="Button1" fdprocessedid="q0pfnp">
+&nbsp;&nbsp; =&gt;
+                        <strong>
+                        <span id="lbl_factorialAnswer">24</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">
+                        <h1><strong>Money Conversion :</strong></h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">INR :
+                        <input name="txt_inr" type="text" value="100" id="txt_inr" fdprocessedid="saclfn">
+&nbsp;&nbsp;
+                        <input type="submit" name="btn_inrToDoller" value="₹ to $" id="btn_inrToDoller" fdprocessedid="fcmkev">
+&nbsp; =&gt;&nbsp;&nbsp;
+                        <strong>
+                        $<span id="lbl_doller">1.20481927710843</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>DOLLER :&nbsp;
+                        <input name="txt_doller" type="text" value="234.23" id="txt_doller" fdprocessedid="bkqwml">
+&nbsp;
+                        <input type="submit" name="btn_dollerToInr" value="$ to ₹" id="btn_dollerToInr" fdprocessedid="i42u78">
+&nbsp;&nbsp; =&gt;&nbsp;
+                        <strong>
+                        <span class="auto-style5" style="font-family: arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">₹</span><span id="lbl_inr">19441.09</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <h1><strong>Quadratic Equation : </strong></h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input name="txt_qe1" type="text" value="12" id="txt_qe1" fdprocessedid="3p9wnhh">
+&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input name="txt_qe2" type="text" value="34" id="txt_qe2" fdprocessedid="3cdm5l">
+&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input name="txt_qe3" type="text" value="3" id="txt_qe3" fdprocessedid="hdd42">
+&nbsp;&nbsp;
+                        <input type="submit" name="btn_qeAnswer" value="Answer" id="btn_qeAnswer" fdprocessedid="pn5f7a">
+                        <br>
+                        <strong>
+                        <span id="lbl_qeAnswer">roots are Imaginary<br>first root is -0.0911688566177612<br>second root is 0</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <h1><strong>Temperature Conversion&nbsp; :&nbsp; </strong></h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter celsius :
+                        <input name="txt_celsius" type="text" value="30" id="txt_celsius" fdprocessedid="kxioi7">
+&nbsp;
+                        <input type="submit" name="btn_CtoF" value="C to F" id="btn_CtoF" fdprocessedid="gt46hk">
+&nbsp;&nbsp; =&gt;&nbsp; <strong>
+                        <span id="lbl_fahrenheit">86</span>
+                        <b class="auto-style5" style="font-family: arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">°F</b></strong></td>
+                </tr>
+                <tr>
+                    <td>Enter fahrenheit : <input name="txt_fahrenheit" type="text" value="86" id="txt_fahrenheit" fdprocessedid="dabvin">
+&nbsp;
+                        <input type="submit" name="btn_FtoC" value="F to C" id="btn_FtoC" fdprocessedid="27407w">
+&nbsp;&nbsp; =&gt;&nbsp; <strong>
+                        <span id="lbl_celsius">30</span>
+                        <b class="auto-style5" style="font-family: arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">°C</b></strong></td>
+                </tr>
+            </tbody></table>
+
+        </div>
+    </form>
+
+
+</body></html>
