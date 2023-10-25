@@ -1,0 +1,113 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 366px;
+            height: 26px;
+        }
+        .auto-style3 {
+            height: 26px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical3b.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="fGeQJETAw0404/JdAb1+dNZNaF7erkupfvjiFS/qj1cbgMXohuME9PR1VCDnfFomSgxG/lZ0z9h9ExwJESUi37Z3PF+b6928gAFbOrNNeoRbSSovyxrzqjWZgwADklmvv+SsLXc8dap1v+jmOsYd+Ee9NDgYKiXuZ0Bw7ZTriQj2cbo3kzNmm8Ib7A7eWuRwO0/XqMJQBbrV6BjQ9TnmsvLWFDiUj7MV+4ErWmK7jFWujzSBn2fkFrQADHZZW4sQN2M53emvVblIes11fMu/JZGm8PLACc0Vzj/x2MCQO7BsbeGxinGvy7hvs3EHy/h9KcLWUprqi2xBhPSpObkwZ0H/npLI6IItrKJPOvpShP65Ev3wjkA1FPDwd4vnzbviGqWNZNfzsVXdcQ6y9aRZkG2oFStQpi8rZoiLzVx0MGi0kp/f4b/Zg2XbE/gaPRfCG3u7kixoUyxTO6zwTW6AUfv82hXDu6VQ5vpwqwlPBFNTYHLfkoIa5W2F5hlhZ+loP7MYbkQNpPqaMNqsjY+qLjQND4a0trAEGXqWuT2vBL0ntZa6Su323skOKt8k1PvWxQ4nz2EHEy3J11gHT9cecKIbE1w+S8JSzrtH0d5iSkf51lpVGk1m0M8TvNPSJ6w+Mises86kqcRChWyTejnxn2vhvbDct+kN4P7bH8iN4Hv3TqMrwSunanidWrW5mzAwkjUaAe6Lus0X9t04DpT4j96oiFv0AReOL9MbM2BgPfQ=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="09BF7473">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="wcxOEibHPHLleHZXki09jDicGwH+1ZScm7krAOCNy3R/2LneHeiUdq5Qwcll1LGLjLKtmWBM5E3HRT74K3xhVXKdVEwxauQUaFRV2eSVfq12y5Ma1lf3WhqHaxgVkIlAQXex5IN2DHrb0MrAXIH7w4e6RTQPoE+IXyrDNZZDTDvg7vP3Optvy9r8lFKsQCH+3Napu9vYzaQUA114dXeOhvSOPsP8sx7W34shSwp2qnuZ7dN3WvIJVTi3Mgmpe8HkiB0XADHCgJEp+w/43cRc+zxK4RezSUAbz/JLpepYt8Aufk3+Hw1UuAmP+HBravnWnxVFUHZV2St6LB97Yiu+bEoMyA2wXAP7X9h+NXZGfyioNxOV79egi117tPKE79atsUjjX7cDwHiuZqLFlzEMsavc1dNcmzpWwVXfiIZcgqq1k+i/S43JekyU5mwqSRryVRHp+ydfmn8GJhsL6lDljQ5aPiUh5ExPavN2D7V3C3+8pccyL1LFuwPrW1Qb6ynOjjBCH3ZvL47mf3UQGTF29fxZaYuvHxiBYdB194CbqkqxdkrkaZkJtb0owD/JoO+YbMcrbY5fLXK9DDVBYf19QmSvfHrT730andVHcPeCLjIz657ZSQtcHUU+rvMPM3JM6mzOkXpKQl4PetCNRVg7bhjrCRo6YGrpBNWpAfUy2wPivq3hGHjp+I1H/jq52yuRcbomMsj3DgG7GsHjyqkC6CRYMX3Emwz89CNO6wGt8vH6H5BZP7JSKH0x32w5gIPMOKsRhbY7nKAisupDOSH7TWyhrYTnXLhYT4cYBdhlmEZC1IBnyT6X8haeZggsXiAu0f9Pn2Ywon35JWMiRKw1x7rCYLLPTJ5itaZyT4JUCIAvXXl8jp8R8AbY7C9Lh+d/uaA6H4bwVWtMeTy8jRUU64xkAYkgMiLNZK7QNoSU7FkcvgYAzZIgZxCbAo88aVwnxvXVQKt9qaWyN/2UJSKmW1ZJWftI+ofNTlExc7VbdcoyaNUzp2e9qAyW0EbJrFMYs3gSvZGwKnpTzEkQAFttCCdRdGBYSrhwf15XyZSEbNH7lqsSHQzK+NcUplt90jve">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : advait&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; roll no.: 90</td>
+                                <td class="auto-style3"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table id="Calendar1" cellspacing="0" cellpadding="2" title="Calendar" style="border-width:1px;border-style:solid;border-collapse:collapse;">
+	<caption>
+		Gopal Gupta
+	</caption><tbody><tr><td colspan="7" style="background-color:Silver;"><table cellspacing="0" style="width:100%;border-collapse:collapse;">
+		<tbody><tr><td style="width:15%;"><a href="javascript:__doPostBack('Calendar1','V8613')" style="color:Black" title="Go to the previous month">Aug</a></td><td align="center" style="width:70%;">September</td><td align="right" style="width:15%;"><a href="javascript:__doPostBack('Calendar1','V8674')" style="color:Black" title="Go to the next month">Oct</a></td></tr>
+	</tbody></table></td></tr><tr><th align="center" abbr="Sunday" scope="col">Sun</th><th align="center" abbr="Monday" scope="col">Mon</th><th align="center" abbr="Tuesday" scope="col">Tue</th><th align="center" abbr="Wednesday" scope="col">Wed</th><th align="center" abbr="Thursday" scope="col">Thu</th><th align="center" abbr="Friday" scope="col">Fri</th><th align="center" abbr="Saturday" scope="col">Sat</th></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8639')" style="color:Black" title="27 August">27</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8640')" style="color:Black" title="28 August">28</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8641')" style="color:Black" title="29 August">29</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8642')" style="color:Black" title="30 August">30</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8643')" style="color:Black" title="31 August">31</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8644')" style="color:Black" title="1 September">1</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8645')" style="color:Black" title="2 September">2</a></td></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8646')" style="color:Black" title="3 September">3</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8647')" style="color:Black" title="4 September">4</a></td><td align="center" style="background-color:Yellow;width:14%;"><a href="javascript:__doPostBack('Calendar1','8648')" style="color:Black" title="5 September">5</a><span><br>Teachers Day!</span><img src="./images/teacherDay.jpg" style="height:20px;width:20px;"></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8649')" style="color:Black" title="6 September">6</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8650')" style="color:Black" title="7 September">7</a></td><td align="center" style="color:White;background-color:Silver;width:14%;"><a href="javascript:__doPostBack('Calendar1','8651')" style="color:White" title="8 September">8</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8652')" style="color:Black" title="9 September">9</a></td></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8653')" style="color:Black" title="10 September">10</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8654')" style="color:Black" title="11 September">11</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8655')" style="color:Black" title="12 September">12</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8656')" style="color:Black" title="13 September">13</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8657')" style="color:Black" title="14 September">14</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8658')" style="color:Black" title="15 September">15</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8659')" style="color:Black" title="16 September">16</a></td></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8660')" style="color:Black" title="17 September">17</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8661')" style="color:Black" title="18 September">18</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8662')" style="color:Black" title="19 September">19</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8663')" style="color:Black" title="20 September">20</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8664')" style="color:Black" title="21 September">21</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8665')" style="color:Black" title="22 September">22</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8666')" style="color:Black" title="23 September">23</a></td></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8667')" style="color:Black" title="24 September">24</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8668')" style="color:Black" title="25 September">25</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8669')" style="color:Black" title="26 September">26</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8670')" style="color:Black" title="27 September">27</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8671')" style="color:Black" title="28 September">28</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8672')" style="color:Black" title="29 September">29</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8673')" style="color:Black" title="30 September">30</a></td></tr><tr><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8674')" style="color:Black" title="1 October">1</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8675')" style="color:Black" title="2 October">2</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8676')" style="color:Black" title="3 October">3</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8677')" style="color:Black" title="4 October">4</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8678')" style="color:Black" title="5 October">5</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8679')" style="color:Black" title="6 October">6</a></td><td align="center" style="width:14%;"><a href="javascript:__doPostBack('Calendar1','8680')" style="color:Black" title="7 October">7</a></td></tr>
+</tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label1">Your Selected Date : 08-09-2023 00:00:00</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label2">Today Date : 25-10-2023</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label3">Diwali Vacation start : 11-13-2023 </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label4">Day Remaining For Diwali Vacation : 18 </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label5">Day Remaining For New Year : 66 </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit">
+&nbsp;&nbsp;
+                        <input type="submit" name="btn_reset" value="Reset" id="btn_reset">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
