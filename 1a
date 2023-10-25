@@ -1,0 +1,79 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: right;
+        }
+        .auto-style3 {
+            width: 347px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical1a.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="X41J2tS0fhm7rSPV8vxLsxgkhQ16Wt+d6ApcypJudehGty4IEaQcis89xs40EUZJcOXtMG3tAId+xxGCEn4DUYGoC81hLZQ9FvcymwN0gxI=">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="DBCE9A5A">
+ <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="N4+e7plziyad9hHsOEGkAm/z/VW+4z44qwWX/vQvefAIwZhDgO2F8+VcWwajwkyP5uus/CNDBpWTlYWbwOIfcITG8Qn1003eb3AP7J29EpoeU45Z2xzlocTquTe/xQDAiMk4/pa46410M4r5yaJ2nKD0EtVDrLG4XwekY29ve95adzLs+q94jkVM7rao353XhEd6itdaU08rTkftx9jLrw==">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roll no. : 27</td>
+                                <td class="auto-style2">&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter first Number :&nbsp;
+                        <input name="txt_firstNum" type="text" id="txt_firstNum" fdprocessedid="7ms2ls">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter second Number :
+                        <input name="txt_secondNum" type="text" id="txt_secondNum" fdprocessedid="vasmvm">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter third Number :
+                        <input name="txt_thirdNum" type="text" id="txt_thirdNum" fdprocessedid="yli2qn">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter fourth Number :
+                        <input name="txt_fouthNum" type="text" id="txt_fouthNum" fdprocessedid="0hpri">
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="6g2gsr">
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Output =&gt;&nbsp; <span id="lbl_ans"></span>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
