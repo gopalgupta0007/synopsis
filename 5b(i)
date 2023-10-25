@@ -1,0 +1,92 @@
+<html><head><title>
+
+</title>
+    <style type="text/css">
+    .auto-style5 {
+        font-size: x-large;
+        color: #FF00FF;
+    }
+    .auto-style6 {
+        color: #009900;
+    }
+</style>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            color: #FF00FF;
+            font-size: xx-large;
+        }
+        .auto-style4 {
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./Home.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="h+4Vkuij1PxVVdryJoyvcyul88GaYaNkp7LLn1Fao73ghrNIAkBkLwHg0633Oyg1Qfnr+4/BwApc5FPjOkvp4T7syqOIOaI/YvSruEQaDKA=">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="8D0E13E6">
+</div>
+
+        <div>
+                <table class="auto-style1">
+                    <tbody><tr>
+                        <td class="auto-style2">
+                            <h1 class="auto-style3">Guru Nanak Collage Of Arts, Science And Commerce</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="auto-style1">
+                                <tbody><tr>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink1" class="auto-style4" href="Home.aspx">Home</a>
+                                    </td>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink2" class="auto-style4" href="department.aspx">Departments</a>
+                                    </td>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink3" class="auto-style4" href="gallary.aspx">Gallery</a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+
+    <div class="auto-style2">
+        <table class="auto-style1">
+            <tbody><tr>
+                <td class="auto-style5">
+                    <h3 class="auto-style6"><strong>WELCOME TO GURU &nbsp;NANAK COLLAGE OF ARTS, SCIENCE AND COMMERCE</strong></h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span id="ContentPlaceHolder1_Label1" style="background-color:Yellow;font-size:X-Large;">Skin File is Applied to this Label</span>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</td>
+                    </tr>
+                    <tr>
+                        <td class="auto-style2"><strong>Gopal Gutpa</strong> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROLL NO. : 27</strong></td>
+                    </tr>
+                </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
