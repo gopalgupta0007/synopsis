@@ -1,0 +1,170 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 382px;
+        }
+        .auto-style3 {
+            height: 34px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+        </style>
+</head>
+<body>
+    <form method="post" action="./practical3a.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vsnX8quC0fh0gcaNbpPhKz0fTvJOD23WwogWRKlVALsY0c7RYMkvvoOWHw8lFGGpIfwBsOOt5+MSh3qBv/YhpeDUVKfxl3HjiSxpknb8dnup+ujDikvphgACpgKcYp5KnjFPJS5RfZhlgIljkTnT3ValDbXVfq0x/UQ59uuHT8cCREdG5l3Bq1VhkUh/nOh5woWOh7LAnfwzw/ZFoPPzmOkBux2wFphOvlu/fbQB34vF9tS0O9dV/ruQFhWrNbsVdtvhTK38m05jK4zsNoj0iBn0wO3cQozBrpmSsTvJoVLRLENS8VFgHdtz98S//gYHjUczBVrJcJEmnkDKpQ0sNgK44IRB8l2clk/QXk8sDB3Fe6V5GJ/Xn+09No87/EfmmxHEe5ZlfN45N0Uc/o/85sKsvTLTz/tRF5/B3sK0rH4vP17+PFFVBnXh+X/wGGB5NPUfTOQyNrmTY7EdXkcOf/cS4WLKUU5cH6K6hK99jU9LmllnfV6plcbA9DytusltfAJJZNehWLKbw2iX3fopoA==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGzghPmxGf6APs8v194c141p3wuiwqdgfmLwDp0kLhs1UUA__6jrnzUsRIPNz8X0XA2&amp;t=638277810380000000" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B81A7C6">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="PgbU6gKu2HMSeWZ8McwhtVKKN+/tp9PzI9RyebJsEg1G36xS2JeZPEUWFaZD0E99SFN/TR6T4cQxTdyBj41RvHOFS+G6uNMygVTo0Vn7pZPNJ51R6UjgAMnJlVyYUVIIgfxjviXE/qNm2ATGCbedNbxUJ4PlaVvDWhYz4xlnDfzexnmLQDbrO0if5rOJfluqG1EM9e8IdsiWuEMk9PjP1RsyD/Gk5yjCaVFhmFOPeGXdy21oSjGBJVxMSjnrVTGv0Co/MR+FSDQJo/hrwr4boaWr4RqgVKvaMEYCbAh8jRVr/L0Jkr+0X8A/3u6KfO4DuIk8OGFcCCPcBzMQqj0x3/UGWGLLMyzaibxRGSPj5E8hjC7UKLLZmN86ejuuCMeLSqNnLBc0zuWhfw9tERcmXejgv2n7LL1HkaEdIMHSwAPVUa7LPQ8vpPmgegkIFkJaCwU3MabhQX2/jEwTRbbjqhghY/7D9eOEByLoI+EuH6GdwtrCnyu5bsB5JjpNBL2h">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; roll no.: 27</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Name :
+                        <input name="txt_Name" type="text" value="john" onchange="javascript:setTimeout('__doPostBack(\'txt_Name\',\'\')', 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="txt_Name" fdprocessedid="a3ib7">
+&nbsp; =&gt;&nbsp; <strong>
+                        <span id="lbl_Name">john</span>
+&nbsp; </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">Course Name :
+                        <select name="DropDownList1" onchange="javascript:setTimeout('__doPostBack(\'DropDownList1\',\'\')', 0)" id="DropDownList1" fdprocessedid="xhkrds">
+	<option selected="selected" value="tybscit">tybscit</option>
+	<option value="sybscit">sybscit</option>
+	<option value="fybscit">fybscit</option>
+
+</select>
+&nbsp;&nbsp; <strong>=&gt;&nbsp; <span id="lbl_courseName">tybscit</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">Select Language :&nbsp;&nbsp;
+                        <table id="CheckBoxList1">
+	<tbody><tr>
+		<td><input id="CheckBoxList1_0" type="checkbox" name="CheckBoxList1$0" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'CheckBoxList1$0\',\'\')', 0)" value="c#"><label for="CheckBoxList1_0">c#</label></td>
+	</tr><tr>
+		<td><input id="CheckBoxList1_1" type="checkbox" name="CheckBoxList1$1" onclick="javascript:setTimeout('__doPostBack(\'CheckBoxList1$1\',\'\')', 0)" value="Python"><label for="CheckBoxList1_1">Python</label></td>
+	</tr><tr>
+		<td><input id="CheckBoxList1_2" type="checkbox" name="CheckBoxList1$2" onclick="javascript:setTimeout('__doPostBack(\'CheckBoxList1$2\',\'\')', 0)" value="C++"><label for="CheckBoxList1_2">C++</label></td>
+	</tr><tr>
+		<td><input id="CheckBoxList1_3" type="checkbox" name="CheckBoxList1$3" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'CheckBoxList1$3\',\'\')', 0)" value="Java"><label for="CheckBoxList1_3">Java</label></td>
+	</tr>
+</tbody></table>
+                        <strong>&nbsp; =&gt;&nbsp;
+                        <span id="lbl_checkboxList"><br> c#<br> Java</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td class="auto-style4"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <table id="RadioButtonList1" style="height:61px;">
+	<tbody><tr>
+		<td><input id="RadioButtonList1_0" type="radio" name="RadioButtonList1" value="Male" checked="checked"><label for="RadioButtonList1_0">Male</label></td>
+	</tr><tr>
+		<td><input id="RadioButtonList1_1" type="radio" name="RadioButtonList1" value="Female" onclick="javascript:setTimeout('__doPostBack(\'RadioButtonList1$1\',\'\')', 0)"><label for="RadioButtonList1_1">Female</label></td>
+	</tr>
+</tbody></table>
+                        <strong>&nbsp; =&gt;&nbsp;
+                        <span id="lbl_radioButtonList">Male</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <select size="4" name="ListBox1" onchange="javascript:setTimeout('__doPostBack(\'ListBox1\',\'\')', 0)" id="ListBox1" style="height:106px;" fdprocessedid="m3dj5e">
+	<option selected="selected" value="AWP">AWP</option>
+	<option value="IOT">IOT</option>
+	<option value="AI">AI</option>
+	<option value="SPM">SPM</option>
+	<option value="NGT">NGT</option>
+
+</select>
+&nbsp;
+                        <br>
+&nbsp;=&gt;&nbsp; <strong>
+                        <span id="lbl_listBox"><br> AWP</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="gfu2re">
+&nbsp;&nbsp;&nbsp; =&gt;&nbsp;&nbsp; <strong>
+                        <span id="lbl_submit">Record submitted</span>
+                        </strong>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style4"></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
