@@ -1,0 +1,32 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./practical2c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZvxdQAvyebpw6B+kYGaCljbbKKPX6CpZC+tl7oW8Cv/v3/rKJpJWH+1Fu4VXgvca5K8wwdHzWVZDK4HDArqEHyVL5bORDYMc7E2uyW7clD5+lM8wWuURN4O0cTwy0bn64NScndcB41c0LAPecAF8CaMtB7wFWtim5X4P6x2AUnFGFdMQMcEJ1phL0gqjuvaH0nGMwwIE5k2atEdjxST8/w==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E9499EB8">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="DdCslYao3W5JdM1G06hCaBYJxxWb4XyYss7Udg90VGsB5lsRnYjHvhNGgN35N9YAOnT4REPQnbfYLrX3OpQcD8zmTHBYDlLUHD3brxQ5INEudtMk98YaI8BFj0lma3lK">
+</div>
+        <div>
+            Name :&nbsp; Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27<h2><strong>Delegates : </strong></h2>
+            <strong>
+            <span id="lbl_delegateAnswer1">Value of Num: {0} =&gt; 35</span>
+            <br>
+            <span id="lbl_delegateAnswer2">Value of Num: {0} =&gt; 175</span>
+            </strong>
+            <br>
+            <br>
+            <input type="submit" name="Button1" value="Button" id="Button1">
+            <br>
+            <br>
+            <br>
+        </div>
+    </form>
+
+
+</body></html>
