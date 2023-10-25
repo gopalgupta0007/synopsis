@@ -1,0 +1,114 @@
+<html><head><title>
+
+</title>
+    <style type="text/css">
+        body {
+    background-color: aquamarine;
+    font-family: 'Monotype Corsiva';
+    font-size: larger;
+}
+
+    .auto-style4 {
+        text-align: center;
+        color: blue;
+    }
+    .auto-style5 {
+        text-align: center;
+        color: #FF00FF;
+        }
+</style>
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            color: #FF00FF;
+            font-size: xx-large;
+        }
+        .auto-style4 {
+            font-size: x-large;
+        }
+    </style>
+<link href="App_Themes/styleTheme11/StyleSheet1.css" type="text/css" rel="stylesheet"></head>
+<body>
+    <form method="post" action="./department.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9hFtaH/xR/6ik8wFAGREVwbRJTkhwi9IhT0SPB/YNZ9eExZ1iIx+WsRcBN3c7bB+k8JHV6DEhGXJIdbAK92Hf4htBZAf4CZbUpgU3ydz8jI=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FB269AB7">
+</div>
+
+        <div>
+                <table class="auto-style1">
+                    <tbody><tr>
+                        <td class="auto-style2">
+                            <h1 class="auto-style3">Guru Nanak Collage Of Arts, Science And Commerce</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="auto-style1">
+                                <tbody><tr>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink1" class="auto-style4" href="Home.aspx">Home</a>
+                                    </td>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink2" class="auto-style4" href="department.aspx">Departments</a>
+                                    </td>
+                                    <td class="auto-style2">
+                                        <a id="HyperLink3" class="auto-style4" href="gallary.aspx">Gallery</a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+    <table class="auto-style1">
+    <tbody><tr>
+        <td class="auto-style5">
+            <h1><strong>course Offiered</strong></h1></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.A. ENGLISH</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.A. TAMIL</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>BCA&nbsp;&nbsp;&nbsp; </strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.COM</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.SC. CHEMISTRY</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.SC. COMPUTER SCIENCE</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.SC. METHEMATICS</strong></td>
+    </tr>
+    <tr>
+        <td class="auto-style4"><strong>B.SC. PHYSICS</strong></td>
+    </tr>
+</tbody></table>
+</td>
+                    </tr>
+                    <tr>
+                        <td class="auto-style2"><strong>Gopal Gutpa</strong> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROLL NO. : 27</strong></td>
+                    </tr>
+                </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
