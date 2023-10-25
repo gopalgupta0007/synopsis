@@ -16,13 +16,13 @@
 <body>
     <form method="post" action="./practical1b.aspx" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="apWxW+44vxw9oJ1+BDqJqIAMjkP1DrklQnxma441uIoba2QQS7zz/hhD8mQzBcHoYqdLBbkTPcg45dCldaG/iS+QaSDShKGwHJ+8i/ZbzFk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HKXuoLDVmS4fk0PC9UemvcXTpMGVxOszNqfmzf68JLI5oc3ba5Ks1z8HdC2KM7n/rbx8mBTspvT8/fqw3fE8121lf1LpBWrpUZjYAj6M9+7HxCfDhpxI+t9F+fGQpfdsj94v9aUzsj/eQ1Nm2Z8inA8X8APWHG9KIeAR3IObr6fGSgEzSQyLbzRfpu8cBJB4nfYl8EdJTzG6O7k82BGIgSY/bbOKmRMXKtQJQODYHvuhHTiVRO+LbD1vRsVHLE8dHyN7KEczBSNzLX+SdcNCJpfTnZmxq5HHe8fqLNX29IE=">
 </div>
 
 <div class="aspNetHidden">
 
- <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="5A0C6707">
- <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="TB97TZMc5XCBpMYNl9VTq6+kDy4xwq9qJHjesibw3IlS4Focx4bIa/QKKLHMLNOkHUXHMiSIr7foNmN7P2zO9DJ+uKQA+6bjxAGPxepMcHxmIkBm0XH0ipGwb6V77YRSxlIAgKBpqo/7SwayTnSI9g==">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5A0C6707">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="oeqCEKvim++XPfCwCPm0HAq3u2CjNsEERDWmiBwQZFQ0WMvo5mSMYHj0a5EuuYAtQ/o44iYfgchDuQX3CubEAMVneKe3PmWXCxZuFkQM4e7nGoNBcqmzRT6cVhRN1qsEnkR0yGT9Aex0WjY4VNSWyg==">
 </div>
         <div>
             <table class="auto-style1">
@@ -38,12 +38,12 @@
                 </tr>
                 <tr>
                     <td>Enter your Name :&nbsp;
-                        <input name="txt_name" type="text" id="txt_name" fdprocessedid="1xrtj">
+                        <input name="txt_name" type="text" value="hello world" id="txt_name" fdprocessedid="m0z9m">
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="ma0h2b">
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="w6y9sr">
                     </td>
                 </tr>
                 <tr>
@@ -51,36 +51,36 @@
                 </tr>
                 <tr>
                     <td>ToUpper() =&gt; 
-                        <span id="lbl_uppercase"></span>
+                        <span id="lbl_uppercase">HELLO WORLD</span>
                     </td>
                 </tr>
                 <tr>
                     <td>ToLower() =&gt; 
-                        <span id="lbl_lowercase"></span>
+                        <span id="lbl_lowercase">hello world</span>
                     </td>
                 </tr>
                 <tr>
                     <td>Contain("world") =&gt; 
-                        <span id="lbl_contain"></span>
+                        <span id="lbl_contain">True</span>
                     </td>
                 </tr>
                 <tr>
                     <td>Length =&gt; 
-                        <span id="lbl_length"></span>
+                        <span id="lbl_length">11</span>
                     </td>
                 </tr>
                 <tr>
                     <td>Replace() =&gt;
-                        <span id="lbl_Replace"></span>
+                        <span id="lbl_Replace">hewwo worwd</span>
                     </td>
                 </tr>
                 <tr>
                     <td>Substring(6) =&gt;&nbsp;
-                        <span id="lbl_Substring"></span>
+                        <span id="lbl_Substring">world</span>
                     </td>
                 </tr>
                 <tr>
-                    <td>Trim() =&gt;&nbsp; <span id="lbl_trim"></span>
+                    <td>Trim() =&gt;&nbsp; <span id="lbl_trim">hello world</span>
                     </td>
                 </tr>
             </tbody></table>
