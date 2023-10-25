@@ -1,12 +1,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><br>================================================<br>i=0 <br>
-student id : 1226 <br>
-student name : abc<br>
-course name : bscit<br>
-Date of Birth : 01/02/2004<br>================================================<br><br>================================================<br>i=1 <br>
-student id : 1227 <br>
+student id : 123 <br>
 student name : xyz<br>
 course name : bscit<br>
-Date of Birth : 01/02/2005<br>================================================<br>
+Date of Birth : 01/05/2003<br>================================================<br><br>================================================<br>i=1 <br>
+student id : 126 <br>
+student name : abc<br>
+course name : bscit<br>
+Date of Birth : 02/05/2004<br>================================================<br>
 
 
 
@@ -32,13 +32,13 @@ Date of Birth : 01/02/2005<br>================================================<b
 
     <form method="post" action="./practical1c.aspx" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="ieh5H2F2GISt/fx7wV7yI/0ia6uyeG9+ASsoCjXy+1r/OQFPdGUMKnCFrVzM/v5dOIc+eRVUu+LIirAV6ZplhINh2O2mV0dKaj7ICo4zz9o=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="o7ac5YoTx2g3lKru/zjwTIWprjkElsfgDal280hSExtQcJuxOZsabOvRquhJpznSfMlHkNU14MfKOfE2KbVAyDreEwYdqHgO5T/c1J7etMc=">
 </div>
 
 <div class="aspNetHidden">
 
- <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="91163082">
- <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="uWyFHB/h4V9rMQGqaVofBk3HmynpNjORYdXzmq/qoNJwHyDcmdelyyNDFrRR1NXLu/gcYRDDLr9bTRHDQHnAe4wTglbK3DHJ4iMNYqIwPprXYncLar0xnatJmUP4K0RHoT/usDAbKrnl06LrRgyM6HABp6h+JHwCfL2g8bjHD5sWOB/9WPVPmIRSNZmJXfHvOEmEtpaKZ7G3jaxWjCY/gJw2Rwb9g/jUzpXAIJeE+38=">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="91163082">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/dMxURZ2O44uW2mXTrmOon9ob7iITPB0czN1sZTqnV7/4RcUcKAAzajZuGvMnKtDezPY3alxbtqFvyCfBjpC6G2GtXBli+u9Lks7BGtB55vWcse0sI43soZ2qpRnE4x5+K54mbhGzXPCgD7KVxkYGJSRbQ3q3H2FYinB9ypx2ba4ExfMG6GSN2CQkBHZKwIfdG8k0Equet2uZeIgMoNtNSAwSO2ooAALqkCpxx1Nv44=">
 </div>
         <div>
             <table class="auto-style1">
@@ -65,29 +65,29 @@ Date of Birth : 01/02/2005<br>================================================<b
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style4">Enter Student Id : <input name="txt_studentId" type="text" value="1227" id="txt_studentId" style="width:224px;" fdprocessedid="gh7lm">
+                    <td class="auto-style4">Enter Student Id : <input name="txt_studentId" type="text" value="126" id="txt_studentId" style="width:224px;" fdprocessedid="bhtlho">
                     </td>
                 </tr>
                 <tr>
                     <td>Enter Student Name :
-                        <input name="txt_studentName" type="text" value="xyz" id="txt_studentName" style="width:224px;" fdprocessedid="mtohd">
+                        <input name="txt_studentName" type="text" value="abc" id="txt_studentName" style="width:224px;" fdprocessedid="63nwv9">
                     </td>
                 </tr>
                 <tr>
                     <td>Enter Course Name :
-                        <input name="txt_courseName" type="text" value="bscit" id="txt_courseName" style="width:224px;" fdprocessedid="31zmma">
+                        <input name="txt_courseName" type="text" value="bscit" id="txt_courseName" style="width:224px;" fdprocessedid="9bhfsi">
                     </td>
                 </tr>
                 <tr>
                     <td>Date of Birth :
-                        <input name="txt_dob" type="text" value="01/02/2005" id="txt_dob" style="width:224px;" fdprocessedid="tc8z26">
+                        <input name="txt_dob" type="text" value="02/05/2004" id="txt_dob" style="width:224px;" fdprocessedid="cslivi">
                     </td>
                 </tr>
                 <tr>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <input type="submit" name="btn_display" value="Display" id="btn_display" fdprocessedid="2ef66b">
+                        <input type="submit" name="btn_display" value="Display" id="btn_display" fdprocessedid="4qz9eq">
 &nbsp;&nbsp;&nbsp;
-                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="rspxz">
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="kfhui">
                     </td>
                 </tr>
             </tbody></table>
