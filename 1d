@@ -1,0 +1,180 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 355px;
+        }
+        .auto-style2 {
+            text-align: right;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+        .auto-style5 {
+            font-size: x-large;
+        }
+        .auto-style6 {
+            height: 26px;
+            font-size: x-large;
+        }
+        .auto-style7 {
+            font-size: x-large;
+            height: 39px;
+        }
+        .auto-style8 {
+            height: 38px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical1d.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="54Ood+tESz9JhsTyAVozvhkpSPIl2Ip/BWA/Q9sEhPSBhksO5R8vzOkdheQNBHSXtiHGlniVFSZpEixKEkn23d3qOTwa9y5oriYpYaYJrqw+XAWQ1P1CVLDvjbeUvSSAZGKZT9B5U/PdyfHcyQ1Zv3CRicSZMxz/c/QBkd9quzBzN8ccLOstWXOEw4SazeORkkgBodYae77MK+pEFgWlzZGut/CiLIU20J/jHO49+5NZaui4kqIXVduQ/z82BPsnai9FlBhOxJn+SpUFNcy665ItDLlfSQF9vFIaJc2/HKGJ4GXdoutkiC4Nhz3pdT0Rl2KCp9uCMA4ZSQHYJNCm+A==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5F5398D2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+TEIYZ9yXwf/51t1kz8aCrgeOYENljDuJlPSQ5TL/jpN7qVjZFcpGoUHepJkZELEIb/8GIqGnllns6QDlBSA3x+1A1cMQkKO1kdYZPVnbXiNwBi4hmfMR5DlefqE1NdLJ6FT9fQqTBdLnyCPyuTneBrt3NEiMt3yOeKAW8dl/7DDXQOEG03P2az44LD+eVNSMSzVQK7tRKTJ7Qx582nBRB7kJgEYBQXo+vOkgd+xiNvQy16a9csPMey5E+M4GZS3duNGFRJrbW6kqjpJaC9svX1wOTd545c5ZpwZ/+FL/y4OTt4Kq3TNlwdCfZj7SUT851//oz0M5MdbQwVCY2mnkQ==">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                                <td class="auto-style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="auto-style3">&nbsp;</td>
+                                <td class="auto-style2">&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style7"><strong>Fibonacci Series :</strong></td>
+                </tr>
+                <tr>
+                    <td>Enter Number :
+                        <input name="txt_input" type="text" value="10" id="txt_input" fdprocessedid="emluv">
+&nbsp;<input type="submit" name="btn_getfs" value="Fibonacci Series" id="btn_getfs" style="width:130px;" fdprocessedid="ipf1">
+&nbsp;=&gt;
+                        <strong>
+                        <span id="lbl_fsAns">0 1 1 2 3 5 8 13 21 34</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style5"><strong>Prime Number :</strong></td>
+                </tr>
+                <tr>
+                    <td>Enter Number :
+                        <input name="txt_pNumInput" type="text" value="54" id="txt_pNumInput" fdprocessedid="a3ahl">
+&nbsp;
+                        <input type="submit" name="btn_PrimeNum" value="Prime Number" id="btn_PrimeNum" style="width:111px;" fdprocessedid="kavhnp">
+&nbsp;=&gt;
+                        <strong>
+                        <span id="lbl_pnAns">No, 54 is Not Prime Number</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style7"><strong>Vowels : </strong></td>
+                </tr>
+                <tr>
+                    <td>Enter Char :
+                        <input name="txt_vowelInput" type="text" value="hello" id="txt_vowelInput" fdprocessedid="a52dab">
+&nbsp;
+                        <input type="submit" name="btn_checkVowel" value="Vowels" id="btn_checkVowel" fdprocessedid="o0zlb">
+&nbsp;=&gt; <strong>
+                        <span id="lbl_vowelAns">No, h letter is Not Vowel</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style6"><strong>Foreach Loop : </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp; [ 27, 1, 2, 3, 44, 5 ]&nbsp;
+                        <input type="submit" name="btn_foreach" value="Foreach Loop" id="btn_foreach" fdprocessedid="ad47wq">
+&nbsp;=&gt; <strong>
+                        <span id="lbl_foreach"> 27 1 2 3 44 5</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style5"><strong>Reverse :</strong></td>
+                </tr>
+                <tr>
+                    <td>Enter Number :
+                        <input name="txt_reverse" type="text" value="4321" id="txt_reverse" fdprocessedid="slzjm8">
+&nbsp;
+                        <input type="submit" name="btn_reverse" value="Reverse" id="btn_reverse" fdprocessedid="6kljvr">
+&nbsp;=&gt; <strong>
+                        <span id="lbl_reverse">1234</span>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style5"><strong>Sum of Digits :</strong></td>
+                            </tr>
+                            <tr>
+                                <td class="auto-style8">Enter Number :
+                                    <input name="txt_sumOfDigit" type="text" value="16243" id="txt_sumOfDigit" fdprocessedid="5v47qs">
+&nbsp;
+                                    <input type="submit" name="btn_sumOfDigit" value="Sum of Digits" id="btn_sumOfDigit" fdprocessedid="c2z78">
+&nbsp; =&gt;&nbsp; <strong>
+                                    <span id="lbl_sumOfDigit">16</span>
+                                    </strong></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
