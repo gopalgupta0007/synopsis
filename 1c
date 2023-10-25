@@ -1,0 +1,98 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><br>================================================<br>i=0 <br>
+student id : 1226 <br>
+student name : abc<br>
+course name : bscit<br>
+Date of Birth : 01/02/2004<br>================================================<br><br>================================================<br>i=1 <br>
+student id : 1227 <br>
+student name : xyz<br>
+course name : bscit<br>
+Date of Birth : 01/02/2005<br>================================================<br>
+
+
+
+
+<title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 355px;
+        }
+        .auto-style2 {
+            text-align: right;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+        </style>
+
+
+    <form method="post" action="./practical1c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="ieh5H2F2GISt/fx7wV7yI/0ia6uyeG9+ASsoCjXy+1r/OQFPdGUMKnCFrVzM/v5dOIc+eRVUu+LIirAV6ZplhINh2O2mV0dKaj7ICo4zz9o=">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="91163082">
+ <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="uWyFHB/h4V9rMQGqaVofBk3HmynpNjORYdXzmq/qoNJwHyDcmdelyyNDFrRR1NXLu/gcYRDDLr9bTRHDQHnAe4wTglbK3DHJ4iMNYqIwPprXYncLar0xnatJmUP4K0RHoT/usDAbKrnl06LrRgyM6HABp6h+JHwCfL2g8bjHD5sWOB/9WPVPmIRSNZmJXfHvOEmEtpaKZ7G3jaxWjCY/gJw2Rwb9g/jUzpXAIJeE+38=">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                                <td class="auto-style2">&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">Enter Student Id : <input name="txt_studentId" type="text" value="1227" id="txt_studentId" style="width:224px;" fdprocessedid="gh7lm">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter Student Name :
+                        <input name="txt_studentName" type="text" value="xyz" id="txt_studentName" style="width:224px;" fdprocessedid="mtohd">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter Course Name :
+                        <input name="txt_courseName" type="text" value="bscit" id="txt_courseName" style="width:224px;" fdprocessedid="31zmma">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Date of Birth :
+                        <input name="txt_dob" type="text" value="01/02/2005" id="txt_dob" style="width:224px;" fdprocessedid="tc8z26">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" name="btn_display" value="Display" id="btn_display" fdprocessedid="2ef66b">
+&nbsp;&nbsp;&nbsp;
+                        <input type="submit" name="btn_submit" value="Submit" id="btn_submit" fdprocessedid="rspxz">
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
