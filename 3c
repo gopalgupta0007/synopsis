@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 366px;
+            height: 26px;
+        }
+        .auto-style3 {
+            height: 26px;
+        }
+    </style>
+<style type="text/css">
+	.TreeView1_0 { text-decoration:none; }
+	.TreeView1_1 { color:Black;font-family:Tahoma;font-size:8pt; }
+	.TreeView1_2 { padding:1px 5px 1px 5px; }
+	.TreeView1_3 { font-weight:normal; }
+	.TreeView1_4 {  }
+	.TreeView1_5 {  }
+	.TreeView1_6 { background-color:#B5B5B5;padding:0px 0px 0px 0px; }
+	.TreeView1_7 { color:#6666AA;text-decoration:underline; }
+	.TreeView1_8 { color:#6666AA;text-decoration:underline; }
+
+</style></head>
+<body>
+    <form method="post" action="./practical3c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="TreeView1_ExpandState" id="TreeView1_ExpandState" value="eennnn">
+<input type="hidden" name="TreeView1_SelectedNode" id="TreeView1_SelectedNode" value="TreeView1t5">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="TreeView1_PopulateLog" id="TreeView1_PopulateLog" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="OsYo4I+zD7CM7QPIERBFFxjx6X7bOUCkU/DHEvwG8sx2yu/D+nQaSo8zxJNcA7VYwNpcDhNRohbaFsWMhHL8Rp9MrKzsQ9p0lbicZgILD7w63uHx4mDUHxBc9muIihB1BpvMinbYO551he+evEPHsEQgSXRNYnFNMYF8CSqZ5RM28OAMZnBA7KyL/STV6/DziRr2DFgQ9EBSSI5E0gqIuq9ryg3O/aUqMJSesksx3WAPRbE0I7pO+ZtsgKH07Ry92ENBQm9Bab6qrT3vRY2b7nNpQ251irG/Cz5ib8QxnEWsS6HjzXgFoOrSTfrxhRIZ7//gar41CJHtohjyyOZ6pbnPjKa7+bi/MGDrhY+GxzviF/B90NGqsDcLE7/9me8k9urMoUqW5RB02iD8DoZ+MS56V4/GwUHaD+Lp7lCTAB3J++eoYxlGUfu/IBc9yoNd4o/g7lrsv64DCiaTN6VDxFzbepsuXHeE06wl3RCN/9FXf1nMdWVKgRp7eigP0aNh8mvaYU/nispUUAzz2iw5vmcxOGUprZf/p05+5qHFARW8xW5f6FyJwsUb2KMuDl62oinpktm7IdNIODoF0FWR9mZO48PXoLbY9hZOsdvQaWbejY/Ddx5eaFwqvr7YCl3434Vy5lcfG6YeIFFgz0bb+w6rFfTQTu99pCOFjc+snhA=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGzghPmxGf6APs8v194c141p3wuiwqdgfmLwDp0kLhs1UUA__6jrnzUsRIPNz8X0XA2&amp;t=638277810380000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=5GcSkSOyaAp9rgkHHDGLy2LqJ-4-FRq6KNO_ociMqhAu1k8XaQcspRhoSrOC5kW_mMaEaHggPK6HRBjdK9AuQw2&amp;t=638277810380000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+    function TreeView_PopulateNodeDoCallBack(context,param) {
+        WebForm_DoCallback(context.data.treeViewID,param,TreeView_ProcessNodeData,context,TreeView_ProcessNodeData,false);
+    }
+var TreeView1_Data = null;//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="40C93DEE">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ag7z4sgB4C3XSNYcIrWJNJ4kwBFgV0T0cNwCLhe3u/7k9o6Wr494QMj18SlIVkIUCO0UpO7CbXvDCHvJOwxYshr6XTtcOYZmIZFB5aYxrJkMcX3WkPICzIWpw4oHJxl8sygI1eTChulhhk1qDzxLYtOdCMquk+hiW3jbqyCI7aY=">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : advait&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; roll no.: 90</td>
+                                <td class="auto-style3"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br>
+                        Name :&nbsp;&nbsp; Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll No. : 27<br>
+                        <a href="#TreeView1_SkipLink" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Skip Navigation Links.</a><div id="TreeView1" style="height:159px;width:242px;">
+	<table cellpadding="0" cellspacing="0" style="border-width:0;">
+		<tbody><tr>
+			<td><a id="TreeView1n0" href="javascript:TreeView_ToggleNode(TreeView1_Data,0,document.getElementById('TreeView1n0'),'r',document.getElementById('TreeView1n0Nodes'))"><img src="/WebResource.axd?d=lIhYVYeLZitD6XlgNHhEd23TTAwlNLuVhD1q130HP92nesu0vW53cqvRM5YnKS5STiKpTYXOuPXOsVUGfu4bH0AaMqyQoL_GbT-enqDZQVhqdZG5IHQp38ZOJBfLQuz70&amp;t=638277810380000000" alt="Collapse Asp.net practicals" title="Collapse Asp.net practicals" style="border-width:0;"></a></td><td class="TreeView1_2" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1" href="javascript:__doPostBack('TreeView1','sAsp.net practicals')" onclick="TreeView_SelectNode(TreeView1_Data, this,'TreeView1t0');" id="TreeView1t0">Asp.net practicals</a></td>
+		</tr><tr style="height:0px;">
+			<td></td>
+		</tr>
+	</tbody></table><div id="TreeView1n0Nodes" style="display:block;">
+		<table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tbody><tr style="height:0px;">
+				<td></td>
+			</tr><tr>
+				<td><div style="width:20px;height:1px"><img src="/WebResource.axd?d=hdmFCDCPe26zjLsJ_I0wGg7qKazdi74B0nI7nj4rq_XIKhiSlFDyDNSJUj2L7XfpNkqMaTP1O_ovrDsllTWBSveWWhJbeUgIvRndiAGIV_Q1&amp;t=638277810380000000" alt=""></div></td><td><a id="TreeView1n1" href="javascript:TreeView_ToggleNode(TreeView1_Data,1,document.getElementById('TreeView1n1'),'l',document.getElementById('TreeView1n1Nodes'))"><img src="/WebResource.axd?d=5j1V7IJBhc-qdmzmrXlobpEb3CmzuwguA9nOz-OP8sFD60r0RsYB26rR8IMUxJnqGEGIDvsanI6JjU0KB5NoKOSsgXgPFt6PUn32zkQe6AewqJ2aUvwDl_w3ubnMaidh0&amp;t=638277810380000000" alt="Collapse Practical 3" title="Collapse Practical 3" style="border-width:0;"></a></td><td class="TreeView1_2 TreeView1_4" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1 TreeView1_3" href="javascript:__doPostBack('TreeView1','sAsp.net practicals\\Practical 3c')" onclick="TreeView_SelectNode(TreeView1_Data, this,'TreeView1t1');" id="TreeView1t1">Practical 3</a></td>
+			</tr><tr style="height:0px;">
+				<td></td>
+			</tr>
+		</tbody></table><div id="TreeView1n1Nodes" style="display:block;">
+			<table cellpadding="0" cellspacing="0" style="border-width:0;">
+				<tbody><tr style="height:0px;">
+					<td></td>
+				</tr><tr>
+					<td><div style="width:20px;height:1px"><img src="/WebResource.axd?d=hdmFCDCPe26zjLsJ_I0wGg7qKazdi74B0nI7nj4rq_XIKhiSlFDyDNSJUj2L7XfpNkqMaTP1O_ovrDsllTWBSveWWhJbeUgIvRndiAGIV_Q1&amp;t=638277810380000000" alt=""></div></td><td><div style="width:20px;height:1px"></div></td><td><img src="/WebResource.axd?d=xnKIOFK8_FM0Qhs_8nLkLap5afFX-ApVqyY9HiwKeNAFYvvaZlniWueqlwbuFeLcBIsBfGywLVy6jdCocxzIfY8PCuh2olXZ7AlmLwCBnrQ1&amp;t=638277810380000000" alt=""></td><td class="TreeView1_2" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1" href="practical3a.aspx" id="TreeView1t2">Practical 3(A)</a></td>
+				</tr><tr style="height:0px;">
+					<td></td>
+				</tr>
+			</tbody></table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+				<tbody><tr style="height:0px;">
+					<td></td>
+				</tr><tr>
+					<td><div style="width:20px;height:1px"><img src="/WebResource.axd?d=hdmFCDCPe26zjLsJ_I0wGg7qKazdi74B0nI7nj4rq_XIKhiSlFDyDNSJUj2L7XfpNkqMaTP1O_ovrDsllTWBSveWWhJbeUgIvRndiAGIV_Q1&amp;t=638277810380000000" alt=""></div></td><td><div style="width:20px;height:1px"></div></td><td><img src="/WebResource.axd?d=xnKIOFK8_FM0Qhs_8nLkLap5afFX-ApVqyY9HiwKeNAFYvvaZlniWueqlwbuFeLcBIsBfGywLVy6jdCocxzIfY8PCuh2olXZ7AlmLwCBnrQ1&amp;t=638277810380000000" alt=""></td><td class="TreeView1_2" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1" href="practical3b.aspx" id="TreeView1t3">Practical 3(B)</a></td>
+				</tr><tr style="height:0px;">
+					<td></td>
+				</tr>
+			</tbody></table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+				<tbody><tr style="height:0px;">
+					<td></td>
+				</tr><tr>
+					<td><div style="width:20px;height:1px"><img src="/WebResource.axd?d=hdmFCDCPe26zjLsJ_I0wGg7qKazdi74B0nI7nj4rq_XIKhiSlFDyDNSJUj2L7XfpNkqMaTP1O_ovrDsllTWBSveWWhJbeUgIvRndiAGIV_Q1&amp;t=638277810380000000" alt=""></div></td><td><div style="width:20px;height:1px"></div></td><td><img src="/WebResource.axd?d=OVjaQnj7-BgyIYo-ciQX6w47sM-lCRVU3djZCOa9ksNZuixZJx2Op0Jo5CpdY8nxMhcUK_T5MpEPE_lHiXerYHypsCHHBTndY6X1uOrZX6Y1&amp;t=638277810380000000" alt=""></td><td class="TreeView1_2" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1" href="practical3c.aspx" id="TreeView1t4">Practical 3(C)</a></td>
+				</tr><tr style="height:0px;">
+					<td></td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div><table cellpadding="0" cellspacing="0" style="border-width:0;">
+		<tbody><tr style="height:0px;">
+			<td></td>
+		</tr><tr>
+			<td><img src="/WebResource.axd?d=OVjaQnj7-BgyIYo-ciQX6w47sM-lCRVU3djZCOa9ksNZuixZJx2Op0Jo5CpdY8nxMhcUK_T5MpEPE_lHiXerYHypsCHHBTndY6X1uOrZX6Y1&amp;t=638277810380000000" alt=""></td><td class="TreeView1_2 TreeView1_6" onmouseover="TreeView_HoverNode(TreeView1_Data, this)" onmouseout="TreeView_UnhoverNode(this)" style="white-space:nowrap;"><a class="TreeView1_0 TreeView1_1 TreeView1_5" href="javascript:__doPostBack('TreeView1','sJava Practicals')" onclick="TreeView_SelectNode(TreeView1_Data, this,'TreeView1t5');" id="TreeView1t5">Java Practicals</a></td>
+		</tr><tr style="height:0px;">
+			<td></td>
+		</tr>
+	</tbody></table>
+</div><a id="TreeView1_SkipLink"></a>
+                        =&gt;&nbsp; <strong>
+                        <span id="lbl_result">Java Practicals</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+        <table id="DataList1" cellspacing="0" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                sid:
+                <span id="DataList1_sidLabel_0">1</span>
+                <br>
+                sname:
+                <span id="DataList1_snameLabel_0">abc</span>
+                <br>
+                age:
+                <span id="DataList1_ageLabel_0">20</span>
+                <br>
+<br>
+            </td>
+	</tr><tr>
+		<td>
+                sid:
+                <span id="DataList1_sidLabel_1">2</span>
+                <br>
+                sname:
+                <span id="DataList1_snameLabel_1">xyz</span>
+                <br>
+                age:
+                <span id="DataList1_ageLabel_1">22</span>
+                <br>
+<br>
+            </td>
+	</tr><tr>
+		<td>
+                sid:
+                <span id="DataList1_sidLabel_2">3</span>
+                <br>
+                sname:
+                <span id="DataList1_snameLabel_2">opq</span>
+                <br>
+                age:
+                <span id="DataList1_ageLabel_2">19</span>
+                <br>
+<br>
+            </td>
+	</tr>
+</tbody></table>
+        
+    
+<script type="text/javascript">
+//<![CDATA[
+var TreeView1_ImageArray =  new Array('', '', '', '/WebResource.axd?d=Vnw6Nul5Gi8dLBSg8ZsULV8mxYf1cUaRH6xH-ovGiivJcpTT4eI4px1EH_Ei0437HOM3yxkhQNKP9HtlsZa8zltrEhlvQ_rgmkQzJi1DukY1&t=638277810380000000', '/WebResource.axd?d=Wt-oJLHV-dsfkxJN06L-WV42fsf1kL9KDyqFs3iJtXsK0LBrVqcr_v9f3vAk1_4tOWWLsabv9Z00llYhO3MRGtemBVAr_XGOFbjnV6r6Snc1&t=638277810380000000', '/WebResource.axd?d=-n2KnhPEOy8tY2UhU96Dm1WRINz_xXLGdWmgUeeso7cFVpV2CfUFJU1Rq-ypP3cb7AIqlWCfOUkgS7nv_z-D8XAeMEFrQiNE9DR1CHRghTM1&t=638277810380000000', '/WebResource.axd?d=hdmFCDCPe26zjLsJ_I0wGg7qKazdi74B0nI7nj4rq_XIKhiSlFDyDNSJUj2L7XfpNkqMaTP1O_ovrDsllTWBSveWWhJbeUgIvRndiAGIV_Q1&t=638277810380000000', '/WebResource.axd?d=lRwXGPbjjiTWUFPkl8gAAYk2t1c53Mc7dmoIG3xk87UX9q6p4Kf0n7d6mTYa3zkxfRGg8HrVPdC4GIbsUJ1CUhS0pCZ61yyVi7lilpKCmYM1&t=638277810380000000', '/WebResource.axd?d=dYYs3OPM-Igo6QKCaeiW7v82PWMvuBpYeE11aBy6WS1Fb9pSza9iVKacKGTnU7ytZh975OJm3xmlvveYhK5Re4xtqnddJHi8sJId_e06txY1&t=638277810380000000', '/WebResource.axd?d=lIhYVYeLZitD6XlgNHhEd23TTAwlNLuVhD1q130HP92nesu0vW53cqvRM5YnKS5STiKpTYXOuPXOsVUGfu4bH0AaMqyQoL_GbT-enqDZQVhqdZG5IHQp38ZOJBfLQuz70&t=638277810380000000', '/WebResource.axd?d=xnKIOFK8_FM0Qhs_8nLkLap5afFX-ApVqyY9HiwKeNAFYvvaZlniWueqlwbuFeLcBIsBfGywLVy6jdCocxzIfY8PCuh2olXZ7AlmLwCBnrQ1&t=638277810380000000', '/WebResource.axd?d=V4jZQ5INloX8_sbez5sDtFHYL6wogSHSiwAkYF5GG-CQaxYpXmTKTXTb5hdLgLpD19DQg-jPui_NtrtByrzPrpdtAZs7tBVsj6RuPKdX0Uw1&t=638277810380000000', '/WebResource.axd?d=vG1pKMaqyV2y6301aKyltuDFJG7E1hU_UXiue57s4peTxCvVkGSeScUbKcx25zRh-wTT3nrNF3teumgg7Nn1e3AKFM8qobXdz-Yy6hV5DhznpBZj5yebb6QxmVwPZ8Pd0&t=638277810380000000', '/WebResource.axd?d=OVjaQnj7-BgyIYo-ciQX6w47sM-lCRVU3djZCOa9ksNZuixZJx2Op0Jo5CpdY8nxMhcUK_T5MpEPE_lHiXerYHypsCHHBTndY6X1uOrZX6Y1&t=638277810380000000', '/WebResource.axd?d=JjqRUslgykaviJSn3n-H3PyVNvNLgxmqF6tksn04zmYcE-bKleLX5ckdv280-zL1adObvkNKEVujnzuFejPk3K8g-8DXcjK54_MSlQKRcEA1&t=638277810380000000', '/WebResource.axd?d=5j1V7IJBhc-qdmzmrXlobpEb3CmzuwguA9nOz-OP8sFD60r0RsYB26rR8IMUxJnqGEGIDvsanI6JjU0KB5NoKOSsgXgPFt6PUn32zkQe6AewqJ2aUvwDl_w3ubnMaidh0&t=638277810380000000', '/WebResource.axd?d=0I2_S9yc7nkxUxvytX7_gTv3TtJ8g3NcT9VCOZNYLSCxZzjg2XGMnqaM7yX8B_e6konJK5OLTGXgqLFU5BCneGGPAQe91dehM3pfrIdpcf01&t=638277810380000000', '/WebResource.axd?d=Sqbgc07c7mewWSa--TDOw4J8UwGEKI2coA9iH9IRn57L1egZCEZ_puaMzwTPi4CsUe7cN545xmi_sjtDZ26_5tQHFh-BGQ2PEX5_M92fd_fc1AgszOHn1-TmnzHovx1m0&t=638277810380000000', '/WebResource.axd?d=vpWuO4m6Yh6bn9CLkjMiDm2o81ZlTGwZrYYXcCeq8S8kAkNgeis7bHmQcuEc-_zZ2Uy_YYi_YwlAf89Th8lK7OPIUXiEnCM53CMl-ZcsK70-ouOzXeNdScig0f1PNlyL0&t=638277810380000000');
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var callBackFrameUrl='/WebResource.axd?d=beToSAE3vdsL1QUQUxjWdUbWfPgOHl-7QTuBAuGeizn_8xl8AOlKIfNUYlpqW6tScW-Rc6CXMyF3fzn7QckzpQ2&t=638277810380000000';
+WebForm_InitCallback();var TreeView1_Data = new Object();
+TreeView1_Data.images = TreeView1_ImageArray;
+TreeView1_Data.collapseToolTip = "Collapse {0}";
+TreeView1_Data.expandToolTip = "Expand {0}";
+TreeView1_Data.expandState = theForm.elements['TreeView1_ExpandState'];
+TreeView1_Data.selectedNodeID = theForm.elements['TreeView1_SelectedNode'];
+TreeView1_Data.hoverClass = 'TreeView1_8';
+TreeView1_Data.hoverHyperLinkClass = 'TreeView1_7';
+(function() {
+  for (var i=0;i<19;i++) {
+  var preLoad = new Image();
+  if (TreeView1_ImageArray[i].length > 0)
+    preLoad.src = TreeView1_ImageArray[i];
+  }
+})();
+TreeView1_Data.lastIndex = 6;
+TreeView1_Data.populateLog = theForm.elements['TreeView1_PopulateLog'];
+TreeView1_Data.treeViewID = 'TreeView1';
+TreeView1_Data.name = 'TreeView1_Data';
+//]]>
+</script>
+</form>
+
+
+</body></html>
