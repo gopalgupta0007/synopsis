@@ -1,0 +1,74 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 316px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical7b.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZjOcUfNydxWRd5Na9N1N56xnriBrRM2FjLaPVuyrhMdJev1bgAuIS6a075cItEMChE1zAy9D6tLKX5qlOkJZu720D/Nb0RpBmRHe3kXzMFRwdumM0yErFNaN1ClHfo0Rhv8Fl/Ufz8MGNp+8avy7u3Z8m6kY4yJ8IST+TPd559j9lyGB5d3GLMPjAJa0ePgok5Fx397ixXd9LU1Y2bGgvmzgPKNfzHeK9F5ILO4MxdAdgvDB0eUgBHSuaejw4u+bDml9R7/OEBnpLXg1ckiXyxHVXz2F8XtLHstVtLJuax0gLEOTrCupEHJiUDCbHKc0aWLZZlSXlfx2mwyO2W0LZvw5XfaU5VN2EflDXSS0vTO1h2Eh2t/0/WQgv8N7++1hXLvDMSWkzsf24LPnucj14w==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9375BCFB">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/gLPUSjW7OsKEAHdwrtn/0SPzNaTCGKsRECGb0SWYOnarZ4f+EDLtj3+bKXIuKpxkONJN4SJtio2o0Yl/zSCqwy/dLrjb1ixGeUOJy8N30OoM3oylK+jeRNes46LzDw+mMCShhuiCGAoVxgUL97kIsVapJwk0yaqxHUaSbtL7VPHoNobwSBYLncdhleq3dXKOhpVoUbD/f9UYhEooyHToLgXyhUlhGBGV15GENPg9wunaaWKgImCdo033Nq6Fw2o">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. 27</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="DropDownList1" id="DropDownList1">
+	<option value=""></option>
+	<option value="1122334455">abc</option>
+	<option value="1234567890">xyz</option>
+	<option selected="selected" value="1029384756">pqr</option>
+	<option value="1244211244">Gopal Gupta</option>
+	<option value="1244211244">popo</option>
+	<option value="9182736450">gopal</option>
+
+</select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="Button1" value="Button" id="Button1">
+                        <br>
+                        <br>
+                        <h4><strong>
+                            <span id="lbl_show">1029384756</span>
+                            </strong></h4>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
