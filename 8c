@@ -1,0 +1,89 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 362px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical8c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PxkfYttIEVKxtZqDrII29nZgNAJvwkY8dRRQMATufuOJE6Mt1OxryaoL/rT9eZFgk7o+npX8VgrpOjaDZ87w0+IIzGkg+b/Zo+74sYbBb+yzcBjPM9vH3GCpEO7WqdoPWWw3QwIENoe8WPkewYcarc9q8yqHzrDcjpb80BCpLlAPjKinH84FvmkhqvJgJW+TAfe6QDz8+ETqkK74xlt2q5ayDqNiVpx8c/CE3Ba9Xfw1BXkzsldvnno+j7y+11iTK5MwnbYUGRL/50LOCeK2eF3rJHD1Gz9XZOw3az7aqwxPZmaLaYmmy0PKclpbRPH+tsqzMbd/i+HGtweb6+K6JNzk2rGRqILvbxSOvGzpodrjNjvw6vKSnxzbsnaTbOJMhpYYV4YEEhvbVhbmcmnfgtoGhPGv+KWm8gYqotem37BkfWlZLqqU6iYV8z4M1U63n0U3kMPpxlpBhtEGslGtqfk6v1pOImT0AycgUyN8/4AtSK2XDO05mA752WiXl2AV8Bk0STmj9+ATOmgYXZUUGKYfgm0mR2RTnoWaUJlAzeMPTvo2MYwqTVkeDzdlAsTbj72MW/f7G8eW7ondAZGbP4m0rSl25mj8AmYBG8u/89d3CiHAL1vkwybW07z6p2x/+FmErfeSxxqj+gnnDxA2g+tKhicM+wtnunlIWejB0pkGL0QAVxtjF0LxjGrlalWISrdsR7+sLkeGVI51EaWmufMkWOOk+cv0dKtSW0H9QgLy7wfFEIjJOLTViE3Rn4Ne8E51+nvC8yD+acc34p/nCn5Lmw0IlfM7tAMIhRWY/+g2EF4ic19y4tFcB75ljvPZcl9/ubVBtwRsu09w77HbzR+9JnffP1LfoQknQsfb16rFzcKucdl+zovcslKNGFj7MWEWY8/1O8lxIwjmr/qINXfT6+oFl777fubxcXWFrwhpc5ZdUXs/74FAx1QKqXTMw+xrd5GcRwpobKYPLvhhCG+rtIioyO/UVlbUWCpxfoMXHW7NX3PawZ+d16fPTfMiz8/9a3paACRu/BBTPlCkFDiweppdzfHS4owZ5lG8zCQ=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DC5759FC">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ttHao+DN4Pv2+wCVk97W5bFcpcLDDis7sq1umA+HlP5SC51sjlES9oX9D9FHR5Yzhie5IDZk4JG9JhqIWO9fAmr4qgp1/SGB9xqYlhvTQR4CltWzK6qWJew441C7wstSNibTfHiVP+61fr0Ki/cxgQ==">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <span id="Label1">Empolyee Salary</span>
+&nbsp; &gt;&nbsp;
+                        <input name="txt_getdata" type="number" id="txt_getdata" fdprocessedid="io39t5" value="10000">
+&nbsp;&nbsp;
+                        <input type="submit" name="btn_show" value="show" id="btn_show" fdprocessedid="3timfh">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+	<table cellspacing="2" cellpadding="4" rules="all" id="GridView1" style="color:Black;background-color:#CCCCCC;border-color:#999999;border-width:3px;border-style:Solid;">
+		<tbody><tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">EId</th><th scope="col">Ename</th><th scope="col">Esalary</th>
+		</tr><tr style="background-color:White;">
+			<td>1</td><td>user1</td><td>18000</td>
+		</tr><tr style="background-color:White;">
+			<td>2</td><td>user2 </td><td>20000</td>
+		</tr><tr style="background-color:White;">
+			<td>3</td><td>user3</td><td>25000</td>
+		</tr><tr style="background-color:White;">
+			<td>11</td><td>zyx</td><td>11111</td>
+		</tr><tr style="background-color:White;">
+			<td>12</td><td>omg</td><td>22222</td>
+		</tr><tr style="background-color:White;">
+			<td>123</td><td>Gopal</td><td>12000</td>
+		</tr><tr style="background-color:White;">
+			<td>227</td><td>Gopal</td><td>25000</td>
+		</tr><tr style="background-color:White;">
+			<td>234</td><td>xyzz</td><td>12333</td>
+		</tr><tr style="background-color:White;">
+			<td>345</td><td>advait</td><td>25000</td>
+		</tr><tr style="background-color:White;">
+			<td>12345</td><td>gooo</td><td>12222</td>
+		</tr>
+	</tbody></table>
+</div>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
