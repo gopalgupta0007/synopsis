@@ -1,0 +1,235 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./index.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="T89Gm2LMQr+OmTIUBr6TpTAH0+935IAQGgEM0iMPHJhBjpwalNN3kuvgqZrUOHHOY4Hi70IGX6KXfc67Da1tcVSkoj1bWFTsrOJx0UMplaqZdScLUU2gsRRvvJtBAZNoWk3fNjtd2O8G68YTVP+g9jZif1U/YhcQe1D2JyCi4ca4xuQ+DItOf/im/HjYOn8Ad/qSJZfDJDcq+fNbFj4FY7fBvyvv5NHUtBGNpa+vc94=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGzghPmxGf6APs8v194c141p3wuiwqdgfmLwDp0kLhs1UUA__6jrnzUsRIPNz8X0XA2&amp;t=638277810380000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=x2nkrMJGXkMELz33nwnakFEeZlmapuDjiIl8fGqlsp57Vr-TezcVdn0BirC3vM9Gv98vfo4_TSAsp8RRz0B1T0cli59632BS9i9urSRX_fU1&amp;t=638277810380000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2505iw5ULaoGC/DECkzirJZRqHdfTrgY5ViPQKE7C4p6UR8l475u45+XzpOvG3GA8kIDwSwWrdZ2jLnNa9cDkC40Bj74eUnWk998vSc1Va2QJUlsPXbyPSGU47FzHrz6y/k+4Z44Zm5OQrl3cRE8nNAnAkf0mwQAcjSBu2kjAKexQpcLisJBE67NYkG6EADzmjzVGZz+uO697nC/6PFcIO/1ZaLhvPzAKJEqCyha2W5cnqPx1VCj4Mamlpw5sV9TB1IXXdOEiBxCIzWukxTINsOkrmVtnWEVAqQ7/rEFT2g5eHVqatbgsEBR4687nvaTJNbZe5toYfaBdSS3n1iJAw==">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td style="border : 2px solid black">
+                        Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27<br>
+                        
+<style type="text/css">
+    .auto-style1 {
+        width: 100%;
+    }
+    .auto-style2 {
+        text-align: left;
+    }
+    .auto-style3 {
+        width: 295px;
+    }
+    .auto-style4 {
+        width: 110px;
+    }
+</style>
+
+<table class="auto-style1">
+    <tbody><tr>
+        <td class="auto-style4">User id : </td>
+        <td class="auto-style3">
+            <input name="Login1$txt_userId" type="text" id="Login1_txt_userId" style="width:277px;" fdprocessedid="hcmzmn">
+        </td>
+        <td>
+            <span id="Login1_RequiredFieldValidator1" style="color: red; display: inline;">userid is madatory</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">password</td>
+        <td class="auto-style3">
+            <input name="Login1$txt_password" type="text" id="Login1_txt_password" style="width:277px;" fdprocessedid="wfkemi">
+        </td>
+        <td>
+            <span id="Login1_RequiredFieldValidator2" style="color:Red;display:none;">password is madatory</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">confirm password</td>
+        <td class="auto-style3">
+            <input name="Login1$txt_confirmpassword" type="text" id="Login1_txt_confirmpassword" style="width:277px;" fdprocessedid="w5q06j">
+        </td>
+        <td>
+            <span id="Login1_CompareValidator1" style="color: red; display: inline;">password don't match</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">email id</td>
+        <td class="auto-style3">
+            <input name="Login1$txt_email" type="text" id="Login1_txt_email" style="width:277px;" fdprocessedid="3gzjgq">
+        </td>
+        <td>
+            <span id="Login1_RegularExpressionValidator1" style="color: red; display: inline;">enter valid email</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">mobile number</td>
+        <td class="auto-style3">
+            <input name="Login1$txt_number" type="text" id="Login1_txt_number" style="width:277px;" fdprocessedid="ojy43r">
+        </td>
+        <td>
+            <span id="Login1_RegularExpressionValidator2" style="color: red; display: inline;">number must be in 10 digits</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">DOB</td>
+        <td class="auto-style3">
+            <input name="Login1$txt_dateofbirth" type="text" id="Login1_txt_dateofbirth" style="width:277px;" fdprocessedid="lfhuzs">
+        </td>
+        <td>
+            <span id="Login1_RangeValidator1" style="color: red; display: inline;">enter correct dob</span>
+        </td>
+    </tr>
+    <tr>
+        <td class="auto-style4">Country</td>
+        <td class="auto-style3">
+            <select name="Login1$ddl_country" id="Login1_ddl_country" fdprocessedid="c783md">
+	<option value="India">India</option>
+	<option value="america">america</option>
+	<option value="usa">usa</option>
+	<option value="dubai">dubai</option>
+
+</select>
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="auto-style2" colspan="3">
+            <input type="submit" name="Login1$Button1" value="SUBMIT" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Login1$Button1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="Login1_Button1" fdprocessedid="8byfz">
+        </td>
+    </tr>
+</tbody></table>
+
+
+                    </td>
+                </tr>
+                <tr> 
+                    <td></td>
+                </tr>
+                </tbody></table>
+        </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("Login1_RequiredFieldValidator1"), document.getElementById("Login1_RequiredFieldValidator2"), document.getElementById("Login1_CompareValidator1"), document.getElementById("Login1_RegularExpressionValidator1"), document.getElementById("Login1_RegularExpressionValidator2"), document.getElementById("Login1_RangeValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var Login1_RequiredFieldValidator1 = document.all ? document.all["Login1_RequiredFieldValidator1"] : document.getElementById("Login1_RequiredFieldValidator1");
+Login1_RequiredFieldValidator1.controltovalidate = "Login1_txt_userId";
+Login1_RequiredFieldValidator1.focusOnError = "t";
+Login1_RequiredFieldValidator1.errormessage = "user id is madatory";
+Login1_RequiredFieldValidator1.display = "Dynamic";
+Login1_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+Login1_RequiredFieldValidator1.initialvalue = "";
+var Login1_RequiredFieldValidator2 = document.all ? document.all["Login1_RequiredFieldValidator2"] : document.getElementById("Login1_RequiredFieldValidator2");
+Login1_RequiredFieldValidator2.controltovalidate = "Login1_txt_password";
+Login1_RequiredFieldValidator2.focusOnError = "t";
+Login1_RequiredFieldValidator2.errormessage = "password is madatory";
+Login1_RequiredFieldValidator2.display = "Dynamic";
+Login1_RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+Login1_RequiredFieldValidator2.initialvalue = "";
+var Login1_CompareValidator1 = document.all ? document.all["Login1_CompareValidator1"] : document.getElementById("Login1_CompareValidator1");
+Login1_CompareValidator1.controltovalidate = "Login1_txt_confirmpassword";
+Login1_CompareValidator1.focusOnError = "t";
+Login1_CompareValidator1.errormessage = "password don\'t match";
+Login1_CompareValidator1.display = "Dynamic";
+Login1_CompareValidator1.evaluationfunction = "CompareValidatorEvaluateIsValid";
+Login1_CompareValidator1.controltocompare = "Login1_txt_password";
+Login1_CompareValidator1.controlhookup = "Login1_txt_password";
+var Login1_RegularExpressionValidator1 = document.all ? document.all["Login1_RegularExpressionValidator1"] : document.getElementById("Login1_RegularExpressionValidator1");
+Login1_RegularExpressionValidator1.controltovalidate = "Login1_txt_email";
+Login1_RegularExpressionValidator1.focusOnError = "t";
+Login1_RegularExpressionValidator1.errormessage = "enter valid email";
+Login1_RegularExpressionValidator1.display = "Dynamic";
+Login1_RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+Login1_RegularExpressionValidator1.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var Login1_RegularExpressionValidator2 = document.all ? document.all["Login1_RegularExpressionValidator2"] : document.getElementById("Login1_RegularExpressionValidator2");
+Login1_RegularExpressionValidator2.controltovalidate = "Login1_txt_number";
+Login1_RegularExpressionValidator2.focusOnError = "t";
+Login1_RegularExpressionValidator2.errormessage = "number must be in 10 digits";
+Login1_RegularExpressionValidator2.display = "Dynamic";
+Login1_RegularExpressionValidator2.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+Login1_RegularExpressionValidator2.validationexpression = "\\d{10}";
+var Login1_RangeValidator1 = document.all ? document.all["Login1_RangeValidator1"] : document.getElementById("Login1_RangeValidator1");
+Login1_RangeValidator1.controltovalidate = "Login1_txt_dateofbirth";
+Login1_RangeValidator1.focusOnError = "t";
+Login1_RangeValidator1.errormessage = "enter correct dob";
+Login1_RangeValidator1.display = "Dynamic";
+Login1_RangeValidator1.evaluationfunction = "RangeValidatorEvaluateIsValid";
+Login1_RangeValidator1.maximumvalue = "16-10-2023";
+Login1_RangeValidator1.minimumvalue = "16-10-2023";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+
+
+</body></html>
