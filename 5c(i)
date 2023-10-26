@@ -1,0 +1,184 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 212px;
+            background-color: #00FFFF;
+        }
+        .auto-style3 {
+            width: 333px;
+            background-color: #0066FF;
+        }
+        .auto-style4 {
+            width: 212px;
+            height: 26px;
+            background-color: #00FFFF;
+        }
+        .auto-style5 {
+            width: 333px;
+            height: 26px;
+            background-color: #0066FF;
+        }
+        .auto-style6 {
+            height: 26px;
+            background-color: #FF66FF;
+        }
+        .auto-style7 {
+            background-color: #FF66FF;
+        }
+        .auto-style8 {
+            width: 212px;
+            height: 29px;
+            background-color: #00FFFF;
+        }
+        .auto-style9 {
+            width: 333px;
+            height: 29px;
+            background-color: #0066FF;
+        }
+        .auto-style10 {
+            height: 29px;
+            background-color: #FF66FF;
+        }
+        .auto-style11 {
+            width: 212px;
+            height: 19px;
+            background-color: #00FFFF;
+        }
+        .auto-style12 {
+            width: 333px;
+            height: 19px;
+            background-color: #0066FF;
+        }
+        .auto-style13 {
+            height: 19px;
+            background-color: #FF66FF;
+        }
+        .auto-style14 {
+            text-align: justify;
+            color: #FF0000;
+            font-size: xx-large;
+            background-color: #00FF00;
+        }
+        .auto-style15 {
+            width: 333px;
+            background-color: #0066FF;
+            margin-left: 120px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./signup.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="5v3r0AA6Oxt5lnAqUpiBtdfjgkg6HTIgpIw8jOFE8UQYNyklqMgrpMs70PWGloGY6wrVbcbApAh40zuKH0Z77bWj7s7za+ASyjQL9utvBQSo4dK+0qg7RyTXI/qN6MGmhtoS4+A3d8q7NhrqJ6b2tejFVWWUt/17EcqHFf7PNSW7OT/broCA194aEam4hAmY">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="36F90C25">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Zm433G1zutYleluwD/9AptVZ5poJwTCxab03VMM03naxFOCIy9yLdCagDpkYbGohnXyKIOFc/R9FpHTJ1wPRDhwgjZod/WVT0aVT/86bSOiVuvwTBler5Zj+96joph68orbrqYAYwu95urpSp0xiFDYwEZYJc6NwwbIKhHeuCHw9rYpHiw2J+Pv39UzxA1hj+LlnJpyMZk6t8sdnJmZDe6BLq4ydciOJYzkKNTlB7DTMHSoDUkMrNfyhzeq4rznrFghngq/eqaoJDTQUMr8dBVYYnW7SknpUKZ0qn4EAAWN5FWPu0y/VA5bgeFc4wvunzVkQiFCJMtbdFx1xy4eIR0pvOgoCemASC/HLDYEAfp2qik6Sj674SPHz/rbOdYmfvaEIGjiB0lW6p2rJ5ioMifGdAopiHAEq/R9ICZWa5KmBuxHeSTOizmhQO2RmFUQS">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td class="auto-style14" colspan="3"><strong>Name : Gopal Gutpa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. :&nbsp; 27</strong></td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">Name : </td>
+                    <td class="auto-style15">
+                        <input name="txt_name" type="text" value="jhon" id="txt_name" style="width:321px;" fdprocessedid="ym865d">
+                    </td>
+                    <td class="auto-style7">ViewState Count :
+                        <span id="lbl_viewstatecounter">29</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">Email : </td>
+                    <td class="auto-style3">
+                        <input name="txt_email" type="text" value="abc@gmail.com" id="txt_email" style="width:321px;" fdprocessedid="15zo8">
+                    </td>
+                    <td class="auto-style7">
+                        <input type="submit" name="btn_viewstate" value="viewState" id="btn_viewstate" style="width:211px;" fdprocessedid="w6b49">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style8">Contact no. :</td>
+                    <td class="auto-style9">
+                        <input name="txt_contact" type="text" value="0987654321" id="txt_contact" style="width:321px;" fdprocessedid="a3mym">
+                    </td>
+                    <td class="auto-style10">enter random password :
+                        <input name="txt_hiddenfield" type="text" value="helloJhon" id="txt_hiddenfield" fdprocessedid="zbk7oq">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" name="btn_setHiddenField" value="store In Hidden Field" id="btn_setHiddenField" style="width:211px;height: 29px" fdprocessedid="x8as5nj">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style11">Age : </td>
+                    <td class="auto-style12">
+                        <input name="txt_age" type="text" value="20" id="txt_age" style="width:321px;" fdprocessedid="l1h0wd">
+                    </td>
+                    <td class="auto-style13">
+                        <input type="hidden" name="HiddenField1" id="HiddenField1" value="helloJhon">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">Username : </td>
+                    <td class="auto-style3">
+                        <input name="txt_username" type="text" value="jhon0007" id="txt_username" style="width:321px;" fdprocessedid="agbpq">
+                    </td>
+                    <td class="auto-style7">
+                        <input type="submit" name="btn_getHiddenField" value="get Data from Hidden Field" id="btn_getHiddenField" style="width:211px;" fdprocessedid="o2u6h">
+&nbsp; =&gt;&nbsp;
+                        <span id="lbl_displayHiddenField">helloJhon</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">Password : </td>
+                    <td class="auto-style3">
+                        <input name="txt_password" type="text" value="john55" id="txt_password" style="width:321px;" fdprocessedid="cz5tfj">
+                    </td>
+                    <td class="auto-style7">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4"></td>
+                    <td class="auto-style5"></td>
+                    <td class="auto-style6">enter your name :&nbsp;
+                        <input name="txt_cookie" type="text" value="john55" id="txt_cookie" fdprocessedid="9r43o">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td class="auto-style3">
+                        <input type="submit" name="btn_session" value="session" id="btn_session" style="width:152px;" fdprocessedid="25i5f8">
+&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" name="btn_querystring" value="Query String" id="btn_querystring" style="width:152px;" fdprocessedid="503tl9">
+                    </td>
+                    <td class="auto-style7">
+                        <input type="submit" name="btn_setCookie" value="set cookie" id="btn_setCookie" style="width:211px;" fdprocessedid="gnhocn">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style7">
+                        <input type="submit" name="btn_getCookie" value="get cookie" id="btn_getCookie" style="width:211px;" fdprocessedid="ki6l2f">
+&nbsp;&nbsp; =&gt;&nbsp;
+                        <span id="lbl_getCookie">john55</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style7">&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
