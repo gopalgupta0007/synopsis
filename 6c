@@ -1,0 +1,120 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 429px;
+        height: 20px;
+    }
+    .auto-style3 {
+        height: 20px;
+    }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical6c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="uXUqGUIMAl2MFOdVOIHBYlOLJLQrPxB508xtnDfLZWv7PBOEKBKobml5n+gArZ2P9eL12x+lhtI2tmYU3ngQUZvr7cWOXDWmqR2RM4fi9u4jlL+lk6H/fZPd16auwR3VfADGFZCQ+OjiwJbzpazlfG4UO+TGV/sBkbc18EXAgvTFsgIdpM0YG2xL+S59j7X2p/+KIDHB6FUtp7EY96ftamThFG/V8zym94o0v1WQxbStqsQZRnLRnzG+PqPiFWSL50StN27vbW0bUYwLdUQdy75tAn7n/bCwtYLXSmJJUP7HTXGLn7pmGhTG/A6ktH9Jdrz/1ohJ9eK5hD83HEJudSpvRqMP3Oi0qq3TyjMb6U/vdNsVg8yi/P2PX16Ps5D26BO437BRHdxbu9NFZ/wBr3O37GY/Ozm/wdhr61eEE7VFRugg7AXY+RxB6TcO/nctv+TVFXsZZRuloV+QWG67q7PO9iHZsqsNB9Z7iCvwKpucPcWS9P+txgbplGIw4KFNiEl0N67uB2AQtCL1n8IZMxpyJC7fEntTgDxxRTzer5w=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EF9B0C40">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div>
+        <table class="auto-style1">
+            <tbody><tr>
+                <td>
+                    <table class="auto-style1">
+                        <tbody><tr>
+                            <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no.: 27</td>
+                            <td class="auto-style3"></td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <table id="DataList1" cellspacing="0" cellpadding="2" style="color:Black;background-color:LightGoldenrodYellow;border-color:Tan;border-width:1px;border-style:solid;border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                            Id:
+                            <span id="DataList1_IdLabel_0">1</span>
+                            <br>
+                            cname:
+                            <span id="DataList1_cnameLabel_0">abc</span>
+                            <br>
+                            cemail:
+                            <span id="DataList1_cemailLabel_0">abc@gmail.com</span>
+                            <br>
+                            city:
+                            <span id="DataList1_cityLabel_0">mumbai</span>
+                            <br>
+                            state:
+                            <span id="DataList1_stateLabel_0">maharastra</span>
+                            <br>
+<br>
+                        </td>
+	</tr><tr>
+		<td style="background-color:PaleGoldenrod;">
+                            Id:
+                            <span id="DataList1_IdLabel_1">2</span>
+                            <br>
+                            cname:
+                            <span id="DataList1_cnameLabel_1">xyz </span>
+                            <br>
+                            cemail:
+                            <span id="DataList1_cemailLabel_1">xyz@gamil.com</span>
+                            <br>
+                            city:
+                            <span id="DataList1_cityLabel_1">Thane</span>
+                            <br>
+                            state:
+                            <span id="DataList1_stateLabel_1">maharastra</span>
+                            <br>
+<br>
+                        </td>
+	</tr><tr>
+		<td>
+                            Id:
+                            <span id="DataList1_IdLabel_2">3</span>
+                            <br>
+                            cname:
+                            <span id="DataList1_cnameLabel_2">mno</span>
+                            <br>
+                            cemail:
+                            <span id="DataList1_cemailLabel_2">mon@gmail.com</span>
+                            <br>
+                            city:
+                            <span id="DataList1_cityLabel_2">panji</span>
+                            <br>
+                            state:
+                            <span id="DataList1_stateLabel_2">Goa</span>
+                            <br>
+<br>
+                        </td>
+	</tr>
+</tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    
+                </td>
+            </tr>
+        </tbody></table>
+        <div>
+        </div>
+    </form>
+
+
+</body></html>
