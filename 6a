@@ -1,0 +1,150 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 429px;
+            height: 20px;
+        }
+        .auto-style3 {
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical6a.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="MkxE6nEW+c8bFyYNYwnC8s0w+JKHc1Z05pcyXs0DOXcqe/dUxvYKT0VOstSxGsUjPaHfeSm0BcVjK+0kEz+xtlT7aDEIc/SJ6EQzfgLjojwaKt1AkfR2W0laWVMBLNYz9PM/l1ezF7lpVq5nhOMeNz+581nVV+ljQh259kX3MWz8hiSXfG9eNWgPRh2+nZPmKI2cfayuOmwllNvnVgX+l9x7wvbZ8JuE6YF1iktIcknXrmeSBuDdVdfMmRhWV1E1QGXPMQkanHbwf4cmQh1YcZILJg023VZ8Bw9cGpgPXliuJJe4MqV5PRGR9JDPDDMf3mjTTdQ1zcJWSqSCL7BXOw==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGzghPmxGf6APs8v194c141p3wuiwqdgfmLwDp0kLhs1UUA__6jrnzUsRIPNz8X0XA2&amp;t=638277810380000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=x2nkrMJGXkMELz33nwnakFEeZlmapuDjiIl8fGqlsp57Vr-TezcVdn0BirC3vM9Gv98vfo4_TSAsp8RRz0B1T0cli59632BS9i9urSRX_fU1&amp;t=638277810380000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A4E2A268">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="wSUY3TrOlDtu6jEiPZgSKcQJase/UJTD4Gc3PdWYmklDvejtEFYJGNnVPqOTblH1s86O3YEikWnnUu1g36TwT3KBSNAm83jbrMS95rlEeRe6oci26pia0/Zo10UgXGZzdCJyAMjWzT0YR0V0d0KsxCXwdY14MXdhGoRk/4Y9jpSX80wGgd6FyDtkrob1KgpJ6GVhiB8KCMpU8al4kRnJ54bPzdmkvSSLuGvnxTzJyaAwB+/8Grthh9mZbD97vkzT">
+</div>
+        <div>
+
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no.: 27</td>
+                                <td class="auto-style3"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <textarea name="txt_takeval" rows="2" cols="20" id="txt_takeval" style="height:56px;width:271px;">select * from staff</textarea>
+&nbsp;&nbsp;&nbsp;
+                        <span id="RequiredFieldValidator1" style="color:Red;display:none;">please Provide Query</span>
+                        <br>
+&nbsp;<input type="submit" name="btn_showData" value="Show Data" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btn_showData&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="btn_showData">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                        <select size="4" name="lb_showData" id="lb_showData" style="height:167px;width:236px;">
+	<option value=" 1 user1 18000"> 1 user1 18000</option>
+	<option value=" 2 user2 20000"> 2 user2 20000</option>
+	<option value=" 3 user3 15000"> 3 user3 15000</option>
+	<option value=" 4 user4 28000"> 4 user4 28000</option>
+	<option value=" 5 user5 30000"> 5 user5 30000</option>
+
+</select>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+
+        </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "txt_takeval";
+RequiredFieldValidator1.errormessage = "please Provide Query";
+RequiredFieldValidator1.display = "Dynamic";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+
+
+</body></html>
