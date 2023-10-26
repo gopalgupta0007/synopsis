@@ -1,1 +1,87 @@
-7c
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 316px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical7c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="gCV0Vjo2ZML5ZhuoBqtz7ERVGG7KiMzR2Z6OlbcBtoRlMAqKNbwAMQjrApfMyPrHQV5vP6rXo+7SLfazwbXlU+gXDpRsLtcz74dj0oqjSNOW8JPD8klPe/Qfo8wyXjNsJs+EsLqHTCLNn3RoQ4tq++eFda1InD3QSL66CIljiSWKaXD6MQkAy4zRM1cDfOAo9665KdxDTk8T0ZmJ9A/SIUQHAXlkOVZ2+i1GpS7ut75v7h31Sx5Qy3LyjB504SLpYHTTePe2CBSM2teD/VA+4f9z05eSK9ZlBPNoGXS1DvBC12A0RkiMhDLhlMngi2l2PvxGb8Pndz78HzHxbrKzpL2BcOUTGIO+FT9F7KF8kY0UKbUan+CWkYWcx4CKTpR0QgsQYygNbTgzgMpj3HekYFXrkuiULAega+Wvv+CrngE=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0F27F076">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="s0mOcuixmUyBk9elc0VEqITnGkU0RePfJCZTKcYqEG3dlAbAktGG5jbWPfx5lir7YdubllRFRIVTHnfg6pZISkDXybFxSs+jk5LJ+Qb1mTGyCYbOyQjaW7RsEqByCQ3+KPAAR1AUnAlft82eMAiGPfIh2vgt6V7H5K/jO24hQK9/t2SLfs2VS6z3ro5kKSWJyl2i3pBEoXykzVW2FmfVUh54FrYPEGaVmKBjtfAPIHA=">
+</div>
+        <table class="auto-style1">
+            <tbody><tr>
+                <td>
+                    <table class="auto-style1">
+                        <tbody><tr>
+                            <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. 27</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    
+                            <span id="lbl_autherId">auther Id</span>
+                            &nbsp; :&nbsp;&nbsp;
+                            <input name="txt_autherId" type="number" id="txt_autherId" fdprocessedid="m0g6zf" value="48">
+                            <br>
+                            <br>
+                            <span id="lbl_name">auther name</span>
+                            &nbsp; :&nbsp;
+                            <input name="txt_name" type="text" maxlength="50" id="txt_name" fdprocessedid="bdnvt9" value="john">
+                            <br>
+                            <br>
+                            <span id="lbl_authPhoneno">auther phone no.</span>
+                            &nbsp; :&nbsp;
+                            <input name="txt_phoneno" type="text" maxlength="10" id="txt_phoneno" fdprocessedid="1cfm6" value="1122334455">
+                            <br>
+                            <br>
+                            <input type="submit" name="btn_Insert" value="Insert" id="btn_Insert" fdprocessedid="85gr1h">
+                            &nbsp; =&gt;
+                            <span id="lbl_message">Record is added successfully</span>
+                            <br>
+                        
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;<input type="submit" name="btn_add" value="Add new Auther" id="btn_add" fdprocessedid="6y26o9">
+&nbsp;&nbsp;&nbsp;
+                    <input type="submit" name="btn_remove" value="Remove auther" id="btn_remove" fdprocessedid="szvv5b">
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style4">&nbsp;</td>
+            </tr>
+        </tbody></table>
+        <div>
+        </div>
+    </form>
+
+
+</body></html>
