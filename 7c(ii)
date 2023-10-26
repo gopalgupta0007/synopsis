@@ -1,1 +1,105 @@
-7
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 316px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical7c.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="I3DZ7y31x7OC1VXC8GR0tUvwSmV022XA6uWglUHVGJ8gYyL0tsMXS3lSRhtzMP611sZOJoCVx46xs+pzDni+Q2xtobn5X09jgw1gMjWVqvqvIFCK3SyvnVgN3CaYwcccfUrokekbBmM8d/GbDIV/8hXWXzAH3/KZIvKN3Dkj0uvFCIWTpoo4Gf8aCBpLHYCFLcOvlis+J/02kvl7dsJXW73ijlLLuhqhumpH9VB7CvZC/yN31AhTRUJ3gz2tyHPS9b1oP/itqoY8VIsznqv8Ay40ibMloT+ddCBdh9Bu08EVytX/12QUjFk4K/qhdoHlpGFgVYL2xPJnfHm9wQVk72ZIiw/CjrH5iTVblEUeSomL0ZqNHbZTsYAB/F0n1qUmoknxc1wdhQsFcMZZV9q4D/pemjpKhY8WiRDc0yZriRM1djBAvqGvUBKFiAQrVQM6Uxeoiht4XrUyPSj4NFgcNnuZsdZHKFVUGijCjpxNGxNrGh99/I/2Jizf+rVkw36/hdC1m0k2AtHXiHohuFeTLu0Zejmiu3s7j5T6g96gYqpKMI42ExLqn5MYxGtipCPfHqIxKgHxIlkqaE9KmcRYNg==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0F27F076">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="N9HGinhWtGgciNVQLRnTgexIwmS9+pIY1v0TGkHXHfQvqGLgXrRncjyT3X3MSm9rkZ7PzJrILwsop7ocYW5m2YSTvxpstX5RFuF7RkROWYS7CvMODOiJz4e892hLLL6uLgrPgAe+I77JhSzj5M42Ph597t2RHUhNVQxsCQbmxt5oYksSeVnHiPmnLjEjgy0w/xY+BTwxyfvyP85jAPyu8bnDfS/OXu1zSfj9UXwOcaNyjhI6qJCDvcWV4bE0GoZN/8nkU/eHkS5Hwf9rdCTH4XTGhdZStl1RfNGWM0oOWTOiJPQ3qcuaqdNdEiyiY+eG">
+</div>
+        <table class="auto-style1">
+            <tbody><tr>
+                <td>
+                    <table class="auto-style1">
+                        <tbody><tr>
+                            <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. 27</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    
+                            <select name="DropDownList1" onchange="javascript:setTimeout('__doPostBack(\'DropDownList1\',\'\')', 0)" id="DropDownList1">
+	<option selected="selected" value="">48</option>
+	<option value="abc">1</option>
+	<option value="xyz">2</option>
+	<option value="pqr">5</option>
+	<option value="Gopal Gupta">12</option>
+	<option value="popo">112</option>
+	<option value="gopal">1234</option>
+
+</select>
+                            &nbsp;&nbsp;
+                            <span id="lbl_dropdownname">Selected Auther is jhon</span>
+                            <br>
+                            <br>
+                            <input type="submit" name="btn_delete" value="Delete" id="btn_delete">
+                            &nbsp;=&gt;&nbsp;
+                            <span id="lbl_delete">record is delete successfully</span>
+                        
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;<input type="submit" name="btn_add" value="Add new Auther" id="btn_add">
+&nbsp;&nbsp;&nbsp;
+                    <input type="submit" name="btn_remove" value="Remove auther" id="btn_remove">
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style4">&nbsp;</td>
+            </tr>
+        </tbody></table>
+        <div>
+        </div>
+    </form>
+
+
+</body></html>
