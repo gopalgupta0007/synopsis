@@ -1,0 +1,147 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 362px;
+        }
+        .auto-style3 {
+            height: 25px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical8b.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xkRxBnon+hgmp8zTPufYis7rI7+pgx4HDe8IM9MmUYDQ07pPotc55vgUoqb3pAAhtkSjKxg4ENhq4DbD2rq1MEv9yrfs1wh/yE8AmYWuaxl46BbBY6Rpwds8TAdwrKcJJ3c+mIWgpSKzX37wKcgG/2EQwRiZFta7SuEEsg/c0167ewvPcIIjmn0RZBi2wxPFOdaQkUhA8rOPk+RqTD45C8WHN1iNe99SK6Cbqh3sj2Kw4eji1I/RBxVsiQBKA+Vx4NaaADzbTeporJKxv3h5ezancUoipKOzgYnzJ+Irj713mf+yBUQkdAgiKVDcvVpYPI+XwkzPKKXCetkmh3zC/rG74bvH+xkPW0jnk7o4DU18IOMe6FnEIzOkMJg/zg5y2tLgCwx+hw7lq5jJ2Y115B8s11I7JfBYnri7vsgJFSEcQpJ/cC28GHLTRSqLzKhEknN5vVKv0mzGEhmURzN9XD8/VYBgxAUxlTb2OsBxEEd9n0hnDQ0+5nNx8j6dViZXTSBDTvImAKNrbLD3ei2A1TovLMGdPJA4EL6Nh/dcNPg=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86015B6D">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="OhN0+IVWX+rnXw2w3S8KOF1+iTM2cGWsJN4xQHXrrmY64s/mgznEB21yis6lhSpC0WTVSVNwUX3bt/v9JTN46bSKKzreRrZxiHjr3aAuYFKHgOBgfsSeMcMeMNf0weMcUz7scuwJgd9P4TWBCx/IyojtBbReHle0AOXCTf4Cfpr28F7sDlT5PLcDGrd7uoB/bDPxyyt/TO7lQ5RSXP4p36WVd6R0oFLja4RrNJvOtinZxhzOj2CmMJSzgnIj6ZcMzzswnUFWczyHnHf8OslfMKCvKeVIPJX3ZaTeivniJTP7CZz59YsXfS3OkTnbgGB+H7VUvjzRfTAgV3fXeL1DkEKNDxpnbkGX6JgF94Zi5CBFVLFR5mnEGBvpR/j8Qhs4aIHaJwYnHtLY70WpQRu1aOaRIeJrznT/c3dQFGvLzSE+E0o1JzVfdW6IeOO9hF3L3+jqbtXvO+EvNQ57han2oal3cT2FSIeVlfWGNcDQSBer1XqhQBofqbSzzVe0En7LKIiaOT/0NE37Yc3OT71Thx5tUkk/KyMugfNSCTamGHOynPVq18rb2MxP2ue/vNWHb6XD0TJhNb9kmaP3UWgWQDvA4rq4Id2vXnlIceLsE/U=">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td>
+                                    <table class="auto-style1">
+                                        <tbody><tr>
+                                            <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table cellspacing="0" id="FormView1" style="height:198px;width:274px;border-collapse:collapse;">
+	<tbody><tr>
+		<td colspan="2">
+                                My empolyee information
+                            </td>
+	</tr><tr>
+		<td colspan="2">
+                                EId:
+                                <span id="FormView1_EIdLabel">1</span>
+                                <br>
+                                Ename:
+                                <span id="FormView1_EnameLabel">user1</span>
+                                <br>
+                                Esalary:
+                                <span id="FormView1_EsalaryLabel">18000</span>
+                                <br>
+                                <a id="FormView1_EditButton" href="javascript:__doPostBack('FormView1$EditButton','')">Edit</a>
+                                &nbsp;<a id="FormView1_DeleteButton" href="javascript:__doPostBack('FormView1$DeleteButton','')">Delete</a>
+                                &nbsp;<a id="FormView1_NewButton" href="javascript:__doPostBack('FormView1$NewButton','')">New</a>
+                            </td>
+	</tr><tr>
+		<td colspan="2"><table>
+			<tbody><tr>
+				<td><span>1</span></td><td><a href="javascript:__doPostBack('FormView1','Page$2')">2</a></td><td><a href="javascript:__doPostBack('FormView1','Page$3')">3</a></td><td><a href="javascript:__doPostBack('FormView1','Page$4')">4</a></td><td><a href="javascript:__doPostBack('FormView1','Page$5')">5</a></td><td><a href="javascript:__doPostBack('FormView1','Page$6')">6</a></td><td><a href="javascript:__doPostBack('FormView1','Page$7')">7</a></td><td><a href="javascript:__doPostBack('FormView1','Page$8')">8</a></td><td><a href="javascript:__doPostBack('FormView1','Page$9')">9</a></td><td><a href="javascript:__doPostBack('FormView1','Page$10')">10</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+	<table cellspacing="2" cellpadding="4" rules="all" id="DetailsView1" style="color:Black;background-color:#CCCCCC;border-color:#999999;border-width:3px;border-style:Solid;height:50px;width:125px;">
+		<tbody><tr style="background-color:White;">
+			<td>EId</td><td>1</td>
+		</tr><tr style="background-color:White;">
+			<td>Ename</td><td>user1</td>
+		</tr><tr style="background-color:White;">
+			<td>Esalary</td><td>18000</td>
+		</tr><tr style="background-color:White;">
+			<td colspan="2"><a href="javascript:__doPostBack('DetailsView1','Edit$0')" style="color:Black;">Edit</a>&nbsp;<a href="javascript:__doPostBack('DetailsView1','Delete$0')" style="color:Black;">Delete</a>&nbsp;<a href="javascript:__doPostBack('DetailsView1','New$0')" style="color:Black;">New</a></td>
+		</tr><tr align="left" style="color:Black;background-color:#CCCCCC;">
+			<td colspan="2"><table>
+				<tbody><tr>
+					<td><span>1</span></td><td><a href="javascript:__doPostBack('DetailsView1','Page$2')" style="color:Black;">2</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$3')" style="color:Black;">3</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$4')" style="color:Black;">4</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$5')" style="color:Black;">5</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$6')" style="color:Black;">6</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$7')" style="color:Black;">7</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$8')" style="color:Black;">8</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$9')" style="color:Black;">9</a></td><td><a href="javascript:__doPostBack('DetailsView1','Page$10')" style="color:Black;">10</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table>
+</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
