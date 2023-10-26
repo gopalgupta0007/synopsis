@@ -1,0 +1,85 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 362px;
+        }
+        .auto-style3 {
+            height: 28px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical8a.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="lhQQtoZAzNOlBb2LZ/x+sh/ivmOPhBAfaX3HFTujxgnNDltbOZLhqdzqYKO0L1gXsVp9Kp7Y6R9p8wCshoXXt+8GO7bN1YHTDlG3Tq7sLo0=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="270FC3D4">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="KYFfZJqWzYH2oJqW2HGNOj1nuuTgJ3C4r92fVYEsp7UByjSM/BZXm+ggJO8HyPeQo+aNTZwQ2XCVOBsdS8nzVPXzMpEA3QRYvpZn53+ZcRIcCSni94dNweovMhtWXuTrs1/7xjfTlrYrugWmG1lfibnACycoDU7zy5DFVpGN+TEEyOGfrsM6SZJ4hIE1utpk">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. : 27</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3"></td>
+                </tr>
+                <tr>
+                    <td>Employee Id&nbsp; :&nbsp;
+                        <input name="txt_eid" type="text" value="123" id="txt_eid" fdprocessedid="w7t9wd">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Employee Name&nbsp; :&nbsp;&nbsp;
+                        <input name="txt_ename" type="text" value="Jhon" id="txt_ename" fdprocessedid="9esfen">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Empolyee Salary&nbsp; :&nbsp;
+                        <input name="txt_esalary" type="text" value="24000" id="txt_esalary" fdprocessedid="k7c0pk">
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_add" value="Add" id="btn_add" fdprocessedid="ry0y4f">
+&nbsp;&nbsp;&nbsp; =&gt;&nbsp;&nbsp;&nbsp;
+                        <strong>
+                        <span id="lbl_result">Record is added Successfully</span>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
