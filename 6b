@@ -1,0 +1,59 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 429px;
+            height: 20px;
+        }
+        .auto-style3 {
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical6b.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mOY+s6JNUYMQyope+fPvUVB2s2/pWH6XK2mhd6oxZCofETu7sa61ztE1W3JhWx9wZGfwOFuVs/60rCfLNA06Mp0kJbiPORqSY3pFcM2V8qTK/eprbUNxIwBsGxcboh4F6gu7CRNMXWr9t5N46p28rn1WKJM/p4kCiDG1CH76+MuG7+nXAIVkQkge3SdpYw0cZr9D7afN/Cfu56223nb3+g==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="99450DB1">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="jBUi4iK9NqEemj0G3oOXkAEz632axs669/yBz0CIuS5v6OA74G8/ocTUG5xNF8l8tgNkqwxjlNLv0pluieFESAn8jWokk5xGa1pMAq7R7h+MTtRYUZ/O1qQIuMBqSBLJ">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style2">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no.: 27</td>
+                                <td class="auto-style3"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+            <span id="Label1">Customer Details</span>
+            <br>
+            <br>
+            <strong>
+            <span id="lbl_output">mumbai maharastra<br>Thane maharastra<br>panji Goa<br></span>
+            </strong>
+            <br>
+            <br>
+            <input type="submit" name="Button1" value="Display Record" id="Button1">
+        </div>
+    </form>
+    <p>
+        &nbsp;</p>
+
+
+</body></html>
