@@ -1,0 +1,73 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 206px;
+        }
+        .auto-style3 {
+            width: 206px;
+            height: 26px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./showDataThroughSession.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="i3mnKyJnT/iaDIKdfGb35rHBI5gI7WIiHeGi39CiiqLjJXB8LmKNeq8TVkVjPC5NkSPpeiybSvDXHXMi49hXB48xzavXSyUz8tivvE6BvcdvGzpH5gvVif/SdRHZryjmXK7oYbJvzD+aT0BwiLHLXIwbxpJMHPm5cM/OfOsRcuMp3OjP40OuqaYMmHAyovZI/qpApTvCcXtv3p7z+GADu1HWBYmU2L365Kmg0Frsd0tOGKu1zqNVp5ui4xW9vyptlk6aVvUGXqUD01C2pdvPKA==">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="504224C7">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td class="auto-style3">name : </td>
+                    <td class="auto-style4">
+                        <span id="lbl_showName">jhon</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">email : </td>
+                    <td>
+                        <span id="lbl_showEmail">jhon@gmail.com</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">contact no. : </td>
+                    <td>
+                        <span id="lbl_showContact">0987654321</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">age : </td>
+                    <td>
+                        <span id="lbl_showAge">21</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">username : </td>
+                    <td class="auto-style4">
+                        <span id="lbl_showUsername">john77</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">password ; </td>
+                    <td>
+                        <span id="lbl_showPassword">john55</span>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
