@@ -1,0 +1,77 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 29px;
+        }
+        .auto-style3 {
+            width: 316px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./practical7a.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HbuQ1yoW60DpUe9iDxbnMsoYXUIM+s8gd963+sLb2Yb7rCFfhPW5S4bJjNP19SdBwkGueZeClxT9TojSUWkPmiMMhFmF+ESxcuGQoHDivPbE2iuBsVvQ3Ea6oNxnKzxVGSl89+hQHvF8Yg23QOrYdBJVD2JtWt7APfVwGh4ZOexbs2zAD11BZa6oZQbKEG9Aykr5JV2eG0/+fXHKn6niFikKTczz/tG0uBp0QlRQp3Cjz7Cj+v15o4odWsI3rTJm8mphQa5Hh9sIU5jdcP/YUxVvTYykfKwIJQpIsYrvJwzVmsBjuRJcIR66HW+gTiR+">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C46F869E">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Bl5cP9p4EgsQGChhLw/RoY+ln+yoIZ/BLKGmNRrflTdYwjFy5DJ/pqYULKLiUyFTOxWM4BAhfQshIZprCjltO8elGyF201gMDH7cr0T3VflhjxY+lR5UdBKKCji52et3I2BG6vFcPO+5mWaKNHJ8o88iu5nyszi8xCGOxdUamoZ4Sj3aSNXTwX0rfIFBZr+JCapqzPKQTEqI5ptCixKd/1Ca3mdT9lT2EwIozCwhCvM=">
+</div>
+        <div>
+            <table class="auto-style1">
+                <tbody><tr>
+                    <td>
+                        <table class="auto-style1">
+                            <tbody><tr>
+                                <td class="auto-style3">Name : Gopal Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll no. 27</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        <strong>
+                        <select name="DropDownList1" id="DropDownList1">
+	<option value="emp1">emp1</option>
+	<option value="emp2">emp2</option>
+	<option selected="selected" value="emp3">emp3</option>
+	<option value="emp4">emp4</option>
+	<option value="emp5">emp5</option>
+
+</select>
+                        </strong>
+                        <br>
+                        <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="btn_show" value="Show" id="btn_show">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br>
+                        <strong>
+                        <span id="lbl_output">you are selected =&gt; emp3</span>
+                        </strong>
+                        <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </form>
+
+
+</body></html>
