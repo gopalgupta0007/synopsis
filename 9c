@@ -1,0 +1,59 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./WebForm1.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="EVENTTARGET" id="EVENTTARGET" value="">
+<input type="hidden" name="EVENTARGUMENT" id="EVENTARGUMENT" value="">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="xrzQtwLlgduOlPyixXgnrQY+3vk6cTsL8gCA7Cqb2SJNXeGM53ZiaKmntixrI9hvFeSLSLzKWbXdVW33WqeYBJvRfc/c0IpHJakPmR0fmBbUV16vYu5WG4AZIQ2wUHbgfLtdhCgZLieJPMW9qKdVXygD8XZL/mdQoqHYt++4XjgnioEpMe+IpwwVZeBBx1AiBdaOjt/xg9iD3XotSyJe0aS0BE2wNr+I+fXXrteecS5Y7E/5DiMG5fO/OZ+PiptBd0Xx+o/f/PWsCji+HaicDGM5MoS+Z7z/iqoXoqBpf1aknMmjYJ40ATcFSmVpOna6aBZEeVkc8SEhs3GRqO9Ex4zJKkC1MknvsnQ5j0qxU1rilNpynmEIDN2k7EBuHeXKSbZUdclH5Xi9Ck6/+53g5Q==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="B6E7D48B">
+ <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="q8zVJJYVrODEILZoIDuQL3Ro5h8vIietSX5P3TvYRoDrGTqc9GmagU1oKMj1EPbL0/s5E5aBhmj/KVCqdW1fWZvPba1Wbi7JEL4vqf17iBflF4VDjHudAIw0up48LxdN">
+</div>
+        <h1>Practical 9C</h1>
+        <h2>Pravin Suwasiya (118)</h2>
+        <div>
+            <div>
+ <table cellspacing="0" cellpadding="4" rules="rows" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;height:206px;width:434px;border-collapse:collapse;">
+  <tbody><tr style="color:White;background-color:#333333;font-weight:bold;">
+   <th scope="col">sid</th><th scope="col">LastName</th><th scope="col">FirstName</th>
+  </tr><tr>
+   <td>1</td><td>suwasiya</td><td>pravin</td>
+  </tr><tr>
+   <td>2</td><td>jaiwar</td><td>sujal</td>
+  </tr><tr align="right" style="color:Black;background-color:White;">
+   <td colspan="3"><table>
+    <tbody><tr>
+     <td><span>1</span></td><td><a href="javascript:__doPostBack('GridView1','Page$2')" style="color:Black;">2</a></td>
+    </tr>
+   </tbody></table></td>
+  </tr>
+ </tbody></table>
+</div>
+            
+        </div>
+    </form>
+
+
+</body></html>
