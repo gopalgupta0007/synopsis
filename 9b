@@ -1,0 +1,60 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./WebForm1.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="EVENTTARGET" id="EVENTTARGET" value="">
+<input type="hidden" name="EVENTARGUMENT" id="EVENTARGUMENT" value="">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="AlDq71ZLfdQZjcCR2Bq7xxnwziofQNZt6cs5sQuiaHSYqUbiEL/Q+DYx+TOTaRuFPWZVvaxfuqL1E39Xao6hOfYFd3m/2yyUjd1QxkLQHkr7bz/jdTjIQaEZxXa/WluW2OxUJ2AL5HJGTfYTBanIQlJIH7VzTigjazH725h6jpn1cnXgaOs/8NoFlf+9IVvEKXhPeJ5KXi+/9JAWPAdyQeKPbTmEnWe83DmtN4I/pozc4VeGnjzF80lgMK+C1+8FXj8hFMqRVtZxnDVBmVOw8li9Tcr6im58t81Z9k3FZuV+Z+ir6YhS5ylrh+xWzKD+NmELm7EKelp7XHduIYaEZrQwpTHoiT0RAtdTMt/hdif+f3D+jYRQJ38ZtJmgnwscoVmImZbUB3t9ApKWftyTu0roUmQqWVYZymujf7NhJgTbBon3jOlleAyf80by0fxEgob6ansPycDPZV5bdrP8o/nozMDUc/ajmCDfYnQlz+LMWxhuGrW/KLxSbeuD/leXq2JvH1JYNXzLv1zZ+0/cLTE+UzAXUCvsyro9qOM6Bp++SIBOByOGq4tKnTgRNi5acTebnB+dKvn2qF+nGpKbxQ==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="B6E7D48B">
+ <input type="hidden" name="EVENTVALIDATION" id="EVENTVALIDATION" value="wxvP6IueiHn72I1EGII4UTm5E33wSyaITKxs8xtO+Dv4QPMXrCkPt+P8tcMgDoZG5oUVTZfL+Y380lI0FOQHcC7RjWqgZHmFxFZgIka6jxUiWSXN2ftUF0dYy6EJcErPhKfHhGfvuJhZXaNPouejples4wH+szO6EAtjanxEkc3JAn9MVbEZKk6abFObyUMZ">
+</div>
+        <h1>Practical 9B
+        </h1>
+        <h2>Pravin Suwasiya</h2>
+        <div>
+            <div>
+ <table cellspacing="2" cellpadding="3" rules="all" id="GridView1" style="background-color:#DEBA84;border-color:#DEBA84;border-width:1px;border-style:None;height:255px;width:580px;">
+  <tbody><tr style="color:White;background-color:#A55129;font-weight:bold;">
+   <th scope="col">student id</th><th scope="col">LastName</th><th scope="col">FirstName</th><th scope="col">&nbsp;</th>
+  </tr><tr style="color:#8C4510;background-color:#FFF7E7;">
+   <td>1</td><td>suwasiya</td><td>pravin</td><td><input type="button" value="show student name" onclick="javascript:__doPostBack('GridView1','Show$0')"></td>
+  </tr><tr style="color:#8C4510;background-color:#FFF7E7;">
+   <td>2</td><td>jaiwar</td><td>sujal</td><td><input type="button" value="show student name" onclick="javascript:__doPostBack('GridView1','Show$1')"></td>
+  </tr><tr style="color:#8C4510;background-color:#FFF7E7;">
+   <td>3</td><td>jaiswar</td><td>vivek</td><td><input type="button" value="show student name" onclick="javascript:__doPostBack('GridView1','Show$2')"></td>
+  </tr><tr style="color:#8C4510;background-color:#FFF7E7;">
+   <td>4</td><td>prajapati</td><td>ratnesh</td><td><input type="button" value="show student name" onclick="javascript:__doPostBack('GridView1','Show$3')"></td>
+  </tr>
+ </tbody></table>
+</div>
+            
+        </div>
+        <br>
+        <span id="Label1">Selected student name is sujal</span>
+    </form>
+
+
+</body></html>
