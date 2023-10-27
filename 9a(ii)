@@ -1,0 +1,31 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./WebForm3.aspx?sid=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="n6suILLBOHjBMIK6HDqAHVJj4MaC4q+b7G3aU19rG9e90TTYB31WlZuYeLrmruuJtRWXfN95PGVZddBWVCXmPbOQ/QtCgtuNj2YdswUmzaPQK5DgLH+72nc1atO/Dzaqequ7pQxS5+inFpSCWckxbzZPyAWZoW34zPsfXZPPCYva8XDJd9RCI6P+6fRS7FxKfTCn6/IX3iAfwhQIncDRxGJuEJlt6Rk/FK/hnMXb0F+tqXHPfQ4jN4zJ7QZuzxwL8YF3Wigjsq2Z52xhiL8cIPBWMcHnWeqX6TUE8kHlYUaA2T1yoz/uTr16djVBmfmGs6YaifJ1WfytW0NgC5uB/Peirp6/jbgksLZ4iIVPjheDUMwmviffcJIUZ/kx+wsBSuTPflsEr2LoyJA7i5R7N735zUfuayDdmjguMRMqgrI=">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="ED77339F">
+</div>
+        <div>
+            <div>
+ <table cellspacing="0" rules="all" border="1" id="DetailsView1" style="height:50px;width:125px;border-collapse:collapse;">
+  <tbody><tr>
+   <td>sid</td><td>1</td>
+  </tr><tr>
+   <td>LastName</td><td>suwasiya</td>
+  </tr><tr>
+   <td>FirstName</td><td>pravin</td>
+  </tr>
+ </tbody></table>
+</div>
+            
+        </div>
+    </form>
+
+
+</body></html>
