@@ -1,0 +1,38 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./WebForm2.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="VIEWSTATE" id="VIEWSTATE" value="sjRM55QpPE+OPLI6DjoAvhT/sjbyhMdtXAFsCtWQ3b5L3cGHHWNyM7GMVZixPjdYS7Oe9plISlMqjHOYFQMbHZtqMTIYk7FT3D8EGIUZXpXmGpeSC8y6lLAzEmeXmOQ+Z3H5Be94qXE9kSw44uNyjF09/US1Y693jvfxtSBfDUVBwCCamH2SeeJrMLFUIm3vE05kgraNZty/E9mWU3BdbzPQmAU+af4Z5nPBJPxFcPFbnWs5HDVPeUkJUqlvCDtFggl/WOnI8psIHdl0oM6JyUNVU2esgBPIUniWU5Ht6CYKU0GzBzl3joizHNfk1ZysAIxguwypILIEUFcS5skB0zWIWb1zrxAQrde3Yh0CE+P7DA5yMKZhNTthES58gXfmjBJAEGMwml4Ww21Nqrwz2Gbizw8j+lXpNiUcF6hZais/84F+CpPJ+BCGmkmbcrcedfJNFqQ/UdDHR0Y6EzCsVrpqftp4xcePDM7LqQEN8oJvv+7dzH1twmx+N4rXz4j7CpQvK3sROQlirQNLizg1mHSBn2c7epv2uFMUPZ1X31bqjlLf6rNmf/bivHa4gs/wPZbsEcvSIbQUQghsUpbKwpZyaZlm2Lzb4KbnwTmbWc8a5B20igC3br93pXzKvOl0dDshrfZMQkovWSPFlgqayIzWjMAd9kw/feiPhu2TxwXMg3KuS0PIsbd1MNGH+wzqHxE00ruYvVJDAIs/luPAuA==">
+</div>
+
+<div class="aspNetHidden">
+
+ <input type="hidden" name="VIEWSTATEGENERATOR" id="VIEWSTATEGENERATOR" value="D51E3F29">
+</div>
+
+        <h1>Practical 9A</h1>
+        <h2>Pravin Suwasiya (118)</h2>
+        <div>
+            <div>
+ <table cellspacing="0" rules="all" border="1" id="GridView1" style="border-collapse:collapse;">
+  <tbody><tr>
+   <th scope="col">student id</th><th scope="col">LastName</th><th scope="col">FirstName</th>
+  </tr><tr>
+   <td><a href="WebForm3.aspx?sid=1">1</a></td><td>suwasiya</td><td>pravin</td>
+  </tr><tr>
+   <td><a href="WebForm3.aspx?sid=2">2</a></td><td>jaiwar</td><td>sujal</td>
+  </tr><tr>
+   <td><a href="WebForm3.aspx?sid=3">3</a></td><td>jaiswar</td><td>vivek</td>
+  </tr><tr>
+   <td><a href="WebForm3.aspx?sid=4">4</a></td><td>prajapati</td><td>ratnesh</td>
+  </tr>
+ </tbody></table>
+</div>
+            
+        </div>
+    </form>
+
+
+</body></html>
